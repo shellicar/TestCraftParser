@@ -1,13 +1,13 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
+using TestCraftParserLib;
 
 namespace TestCraftParser
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var dir = Directory.GetCurrentDirectory();
             var files = Directory.GetFiles(dir, "nwclientLog*.txt");
@@ -17,7 +17,7 @@ namespace TestCraftParser
                 foreach (var f in files)
                 {
                     var txt = File.ReadAllText(f);
-                    var parser = new TestCraftParserLib.TextParser();
+                    var parser = new TextParser();
                     var recipes = parser.ParseAll(txt).Where(x => x != null);
 
                     foreach (var r in recipes)
@@ -26,10 +26,7 @@ namespace TestCraftParser
 
                         outfile.WriteLine(r.Location);
                         outfile.WriteLine(r.ItemCreated);
-                        foreach (var ir in r.Requirements)
-                        {
-                            outfile.WriteLine(ir);
-                        }
+                        outfile.WriteLine(string.Join(", ", r.Requirements));
                         outfile.WriteLine();
                     }
                 }
@@ -39,4 +36,3 @@ namespace TestCraftParser
         }
     }
 }
-

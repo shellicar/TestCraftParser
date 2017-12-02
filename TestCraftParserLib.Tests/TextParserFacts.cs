@@ -16,31 +16,32 @@ namespace TestCraftParserLib.Tests
         [TestMethod]
         public void Can_get_first_line()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:29:11] [Server] You are now in a Full PVP Area.
+            var text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:29:11] [Server] You are now in a Full PVP Area.
 [CHAT WINDOW TEXT] [Sun Dec 03 00:29:22] [Server] You are now in a Full PVP Area.";
 
             var results = Parser.PreParse(text).ToList();
             Assert.AreEqual(2, results.Count);
-            string expected1 = "[CHAT WINDOW TEXT] [Sun Dec 03 00:29:11] [Server] You are now in a Full PVP Area.";
+            var expected1 = "[CHAT WINDOW TEXT] [Sun Dec 03 00:29:11] [Server] You are now in a Full PVP Area.";
             Assert.AreEqual(expected1, results[0]);
         }
 
         [TestMethod]
         public void Can_get_second_line()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:29:11] [Server] You are now in a Full PVP Area.
+            var text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:29:11] [Server] You are now in a Full PVP Area.
 [CHAT WINDOW TEXT] [Sun Dec 03 00:29:22] [Server] You are now in a Full PVP Area.";
 
             var results = Parser.PreParse(text).ToList();
             Assert.AreEqual(2, results.Count);
-            string expected1 = "[CHAT WINDOW TEXT] [Sun Dec 03 00:29:22] [Server] You are now in a Full PVP Area.";
+            var expected1 = "[CHAT WINDOW TEXT] [Sun Dec 03 00:29:22] [Server] You are now in a Full PVP Area.";
             Assert.AreEqual(expected1, results[1]);
         }
 
         [TestMethod]
         public void Can_get_text_on_multi_lines()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:37] Weapon Crafting Anvil - Standard: Craftable Natural Resources CNR - Drow Wars Modified. Based on CNR V3.05
+            var text =
+                @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:37] Weapon Crafting Anvil - Standard: Craftable Natural Resources CNR - Drow Wars Modified. Based on CNR V3.05
 Automated Batch Restriction of 35 Craftable Items per craft. Exp Restrictions, Crafting Levels 1-4 = 250xp max, Levels 5-9 = 500xp max, Levels 10-14 = 750xp max, Levels 15-19 = 1000xp max 
 
 What would you like to make?
@@ -52,7 +53,8 @@ What would you like to make?
 
             var results = Parser.PreParse(text).ToList();
             Assert.AreEqual(2, results.Count);
-            string expected = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:37] Weapon Crafting Anvil - Standard: Craftable Natural Resources CNR - Drow Wars Modified. Based on CNR V3.05
+            var expected =
+                @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:37] Weapon Crafting Anvil - Standard: Craftable Natural Resources CNR - Drow Wars Modified. Based on CNR V3.05
 Automated Batch Restriction of 35 Craftable Items per craft. Exp Restrictions, Crafting Levels 1-4 = 250xp max, Levels 5-9 = 500xp max, Levels 10-14 = 750xp max, Levels 15-19 = 1000xp max 
 
 What would you like to make?
@@ -66,7 +68,7 @@ What would you like to make? ";
         [TestMethod]
         public void Test_can_find_craft_location()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
+            var text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
 Copper Dwarven Waraxe
 
 Components available/required...
@@ -83,7 +85,7 @@ Components available/required...
         [TestMethod]
         public void Can_get_requirement_amount()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
+            var text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
 Copper Dwarven Waraxe
 
 Components available/required...
@@ -100,7 +102,7 @@ Components available/required...
         [TestMethod]
         public void Can_get_requirement_name()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
+            var text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
 Copper Dwarven Waraxe
 
 Components available/required...
@@ -117,7 +119,7 @@ Components available/required...
         [TestMethod]
         public void Can_get_a_recipe()
         {
-            string text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
+            var text = @"[CHAT WINDOW TEXT] [Sun Dec 03 00:41:44] Weapon Crafting Anvil - Standard: 
 Copper Dwarven Waraxe
 
 Components available/required...

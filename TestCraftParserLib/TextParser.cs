@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -16,33 +15,29 @@ namespace TestCraftParserLib
 
         public IEnumerable<string> PreParse(string input)
         {
-            List<string> currentLines = new List<string>();
+            var currentLines = new List<string>();
 
-            string[] lines = input.Split(
-                new[] { "\r\n", "\r", "\n" },
+            var lines = input.Split(
+                new[] {"\r\n", "\r", "\n"},
                 StringSplitOptions.None
             );
 
-            Regex reg = new Regex("^\\[CHAT WINDOW TEXT\\] \\[.*?\\] (.*)$");
+            var reg = new Regex("^\\[CHAT WINDOW TEXT\\] \\[.*?\\] (.*)$");
 
             foreach (var l in lines)
             {
                 var m = reg.Match(l);
                 if (m.Success)
-                {
                     if (currentLines.Count > 0)
                     {
                         yield return string.Join(Environment.NewLine, currentLines);
                         currentLines.Clear();
                     }
-                }
-                    currentLines.Add(l);
+                currentLines.Add(l);
             }
 
             if (currentLines.Count > 0)
-            {
                 yield return string.Join(Environment.NewLine, currentLines);
-            }
         }
 
         public bool ContainsRecipe(string text)
@@ -54,12 +49,12 @@ namespace TestCraftParserLib
         {
             if (!ContainsRecipe(text)) return null;
 
-            string[] lines = text.Split(
-                new[] { "\r\n", "\r", "\n" },
+            var lines = text.Split(
+                new[] {"\r\n", "\r", "\n"},
                 StringSplitOptions.None
             );
 
-            Regex locRegex = new Regex("^\\[CHAT WINDOW TEXT\\] \\[[^\\]]*\\] (.*):");
+            var locRegex = new Regex("^\\[CHAT WINDOW TEXT\\] \\[[^\\]]*\\] (.*):");
 
             var preLoc = lines[0];
             var created = lines[1];
@@ -69,18 +64,15 @@ namespace TestCraftParserLib
             var location = m.Groups[1].Value;
 
 
+            var idx = 6;
 
-            int idx = 6;
-
-            List<string> requirements = new List<string>();
+            var requirements = new List<string>();
             while (idx < lines.Length && !string.IsNullOrEmpty(lines[idx]))
-            {
                 requirements.Add(lines[idx++]);
-            }
 
             var reqs = requirements.Select(ItemRequirement.Parse);
 
-            var recipe = new RecipeInfo { ItemCreated = created, Location = location, Requirements = reqs.ToList() };
+            var recipe = new RecipeInfo {ItemCreated = created, Location = location, Requirements = reqs.ToList()};
             return recipe;
         }
     }

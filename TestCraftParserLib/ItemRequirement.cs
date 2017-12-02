@@ -15,9 +15,9 @@ namespace TestCraftParserLib
 
         public static ItemRequirement Parse(string arg)
         {
-            Regex reg = new Regex("^[0-9]+ of ([0-9]+) +(.+)$");
+            var reg = new Regex("^[0-9]+ of ([0-9]+) +(.+)$");
             var m = reg.Match(arg);
-            if(!m.Success)
+            if (!m.Success)
                 throw new InvalidOperationException();
 
             var amount = int.Parse(m.Groups[1].Value);
