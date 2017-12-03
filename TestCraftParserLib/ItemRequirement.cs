@@ -5,8 +5,14 @@ namespace TestCraftParserLib
 {
     public class ItemRequirement
     {
-        public int Amount { get; set; }
-        public string ItemName { get; set; }
+        private ItemRequirement(int amount, string name)
+        {
+            Amount = amount;
+            ItemName = name;
+        }
+
+        public int Amount { get; }
+        public string ItemName { get; }
 
         public override string ToString()
         {
@@ -22,7 +28,7 @@ namespace TestCraftParserLib
 
             var amount = int.Parse(m.Groups[1].Value);
             var name = m.Groups[2].Value;
-            return new ItemRequirement {Amount = amount, ItemName = name};
+            return new ItemRequirement(amount, name);
         }
     }
 }

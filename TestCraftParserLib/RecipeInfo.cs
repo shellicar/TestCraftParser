@@ -1,18 +1,33 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace TestCraftParserLib
 {
     public class RecipeInfo
     {
-        public string ItemCreated { get; set; }
-        public string Location { get; set; }
+        public RecipeInfo(string created, string location, IEnumerable<ItemRequirement> requirements)
+        {
+            ItemCreated = created;
+            Location = location;
+            Requirements = requirements.ToList();
+        }
 
-        public List<ItemRequirement> Requirements { get; set; }
+
+        public string ItemCreated { get; }
+        public string Location { get; }
+
+        public List<ItemRequirement> Requirements { get; }
 
         public override string ToString()
         {
-            return
-                $"{nameof(ItemCreated)}: {ItemCreated}, {nameof(Location)}: {Location}, {nameof(Requirements)}: {string.Join(", ", Requirements)}";
+            var sb = new StringBuilder();
+
+            sb.AppendLine(Location);
+            sb.AppendLine(ItemCreated);
+            sb.AppendLine(string.Join(",", Requirements));
+
+            return sb.ToString();
         }
     }
 }

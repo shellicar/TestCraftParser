@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCraftParser", "TestCraftParser\TestCraftParser.csproj", "{45083779-CE8C-4294-9B50-DB65A0D9F03A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCraftParser", "TestCraftParser\TestCraftParser.csproj", "{45083779-CE8C-4294-9B50-DB65A0D9F03A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCraftParserLib", "TestCraftParserLib\TestCraftParserLib.csproj", "{0A8A6087-EBD3-4BA7-B2FB-75D1011136CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCraftParserLib", "TestCraftParserLib\TestCraftParserLib.csproj", "{0A8A6087-EBD3-4BA7-B2FB-75D1011136CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCraftParserLib.Tests", "TestCraftParserLib.Tests\TestCraftParserLib.Tests.csproj", "{D2A64C36-82AD-420E-B273-C2179D412705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCraftParserLib.Tests", "TestCraftParserLib.Tests\TestCraftParserLib.Tests.csproj", "{D2A64C36-82AD-420E-B273-C2179D412705}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
