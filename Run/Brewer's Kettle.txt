@@ -1,0 +1,116 @@
+Brewer's Kettle
+Beholder Black Concentrate
+2 Elder Beholder Black Eye Stalk, 1 Elder Beholder Mage Eye Stalk, 1 Elder Beholder Rogue Eye Stalk, 1 Sugar
+
+Brewer's Kettle
+Beholder Mage Concentrate
+2 Elder Beholder Mage Eye Stalk, 1 Elder Beholder Black Eye Stalk, 1 Elder Beholder Rogue Eye Stalk, 1 Sugar
+
+Brewer's Kettle
+Beholder Rogue Concentrate
+2 Elder Beholder Rogue Eye Stalk, 1 Elder Beholder Black Eye Stalk, 1 Elder Beholder Mage Eye Stalk, 1 Sugar
+
+Brewer's Kettle
+Shroom Concentrate
+6 Shroom Chunk, 1 Sugar
+
+Brewer's Kettle
+Healing Emulsion
+1 Almond Oil, 2 Essence of Cure
+
+Brewer's Kettle
+Healing Lotion
+1 Healing Poultice, 2 Corn Flour
+
+Brewer's Kettle
+Healing Ointment
+1 Healing Poultice, 2 Corn Flour, 1 Rubbing Alcohol
+
+Brewer's Kettle
+Healing Salve
+1 Healing Poultice, 1 Healing Emulsion, 2 Bees Wax
+
+Brewer's Kettle
+Healing Elixir
+1 Healing Poultice, 1 Healing Emulsion, 1 Rubbing Alcohol
+
+Brewer's Kettle
+Rubbing Alcohol
+1 Brewer's Yeast, 1 Sugar, 1 Empty Flask, 1 Water
+
+Brewer's Kettle
+Elixir Grenade
+1 Healing Elixir, 1 Deadly Fire Trap Kit, 1 Thunderstone, 1 Scroll(s) of Mass Heal, 1 Schematic - Food Crafting 3 in inventory
+
+Brewer's Kettle
+Beholder Black Paste
+1 Beholder Black Concentrate, 1 Red Dragon Scale Powder
+
+Brewer's Kettle
+Beholder Mage Paste
+1 Beholder Mage Concentrate, 1 Red Dragon Scale Powder
+
+Brewer's Kettle
+Beholder Rogue Paste
+1 Beholder Rogue Concentrate, 1 Red Dragon Scale Powder
+
+Brewer's Kettle
+Demonic Marilith's Tongue Paste
+1 Demonic Marilith's Tongue , 1 Sugar
+
+Brewer's Kettle
+Marilith Blackguards Tongue Paste
+1 Marilith Blackguards Tongue , 1 Sugar
+
+Brewer's Kettle
+Marilith Mage Tongue Paste
+1 Marilith Mage Tongue , 1 Sugar
+
+Brewer's Kettle
+Slaad Tongue Paste
+1 Slaad's Tongue, 1 Sugar
+
+Brewer's Kettle
+Barley Wort
+1 Malted Barley, 1 Sugar, 1 Water
+
+Brewer's Kettle
+Corn Wort
+1 Malted Corn, 1 Sugar, 1 Water
+
+Brewer's Kettle
+Oat Wort
+1 Malted Oats, 1 Sugar, 1 Water
+
+Brewer's Kettle
+Rice Wort
+1 Malted Rice, 1 Sugar, 1 Water
+
+Brewer's Kettle
+Rye Wort
+1 Malted Rye, 1 Sugar, 1 Water
+
+Brewer's Kettle
+Wheat Wort
+1 Malted Wheat, 1 Sugar, 1 Water
+
+Brewer's Kettle
+Weakening Poison
+1 Stink Beetle Gland, 2 Nettle Leaf, 1 Brewer's Yeast, 1 Empty Glass Vial
+
+Brewer's Kettle
+Nerve Poison
+1 Black dragon liver, 2 Black Mushroom, 1 Brewer's Yeast, 1 Empty Glass Vial
+
+Brewer's Kettle
+Sickening Poison
+1 Wyvern Blood, 2 Shroom Chunk, 1 Brewer's Yeast, 1 Empty Glass Vial
+
+Brewer's Kettle
+Necrotic Poison
+1 Essence of Death, 1 Bodak Tooth Powder, 1 Brewer's Yeast, 1 Empty Glass Vial
+
+Brewer's Kettle
+Gnomish Construct Lubricating Substance
+1 Rice Oil, 1 Corn Oil, 1 Black Knight Malt
+

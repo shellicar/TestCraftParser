@@ -1,0 +1,220 @@
+Carpenter's Bench - Weapons & Misc 
+Combined Staff
+1 Staff Piece - Abjuration, 1 Staff Piece - Conjuration, 1 Staff Piece - Divination, 1 Staff Piece - Enchantment, 1 Staff Piece - Evocation, 1 Staff Piece - Illusion, 1 Staff Piece - Necromancy, 1 Staff Piece - Transmutation
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Abjuration
+1 Branch of Ash
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Conjuration
+1 Branch of Cedar
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Divination
+1 Branch of Douglas Fir
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Enchantment
+1 Branch of Elm
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Evocation
+1 Branch of Ebony
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Illusion
+1 Branch of Ironbark
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Necromancy
+1 Branch of Nordic White
+
+Carpenter's Bench - Weapons & Misc 
+Staff Piece - Transmutation
+1 Branch of Teak
+
+Carpenter's Bench - Weapons & Misc 
+Carved Emblem
+1 Branch of Mahogany, 1 Almond Oil
+
+Carpenter's Bench - Weapons & Misc 
+Empty Water Bucket
+2 Plank of Hickory, 1 Copper Wire
+
+Carpenter's Bench - Weapons & Misc 
+Saw Dust
+1 Branch of Hickory/Mahogany/Oak
+
+Carpenter's Bench - Weapons & Misc 
+Torch
+1 Short Stave of Hickory, 1 Rope, 1 Gourd of Oil
+
+Carpenter's Bench - Weapons & Misc 
+Whip Handle
+1 Branch of Mahogany
+
+Carpenter's Bench - Weapons & Misc 
+Gnomish Construct Ashen EndoSkeleton
+2 Shaft of Ash, 2 Titanium Wire
+
+Carpenter's Bench - Weapons & Misc 
+Talisman of the Dragon Mount
+1 Mount Clasp Black, 1 Mount Clasp Dread, 1 Mount Clasp Kabu, 1 Gnomish Construct Ashen Endoskeleton
+
+Carpenter's Bench - Weapons & Misc 
+War Weapon Supplies
+1 Wooden Spear, 1 Iron Shod Club, 1 Iron-Shod Quarterstaff, 3 Compound Mahogany Longbow
+
+Carpenter's Bench - Weapons & Misc 
+Carved Hickory Wand
+1 Shaft of Hickory
+
+Carpenter's Bench - Weapons & Misc 
+Carved Oak Wand
+1 Shaft of Oak
+
+Carpenter's Bench - Weapons & Misc 
+Carved Mahogany Wand
+1 Shaft of Mahogany
+
+Carpenter's Bench - Weapons & Misc 
+Carved Elm Wand
+1 Staff Piece - Enchantment
+
+Carpenter's Bench - Weapons & Misc 
+Ash Shaft
+1 Branch of Ash
+
+Carpenter's Bench - Weapons & Misc 
+Hickory Shaft
+1 Branch of Hickory
+
+Carpenter's Bench - Weapons & Misc 
+Oak Shaft
+1 Branch of Oak
+
+Carpenter's Bench - Weapons & Misc 
+Mahogany Shaft
+1 Branch of Mahogany
+
+Carpenter's Bench - Weapons & Misc 
+Plank of Oak
+1 Branch of Oak
+
+Carpenter's Bench - Weapons & Misc 
+Plank of Hickory
+1 Branch of Hickory
+
+Carpenter's Bench - Weapons & Misc 
+Plank of Mahogany
+1 Branch of Mahogany
+
+Carpenter's Bench - Weapons & Misc 
+Wooden Spear
+1 Branch of Hickory
+
+Carpenter's Bench - Weapons & Misc 
+Wood Club
+1 Branch of Hickory
+
+Carpenter's Bench - Weapons & Misc 
+Wooden Quarterstaff
+1 Branch of Hickory
+
+Carpenter's Bench - Weapons & Misc 
+Bronze Shod Club
+2 Ingot of Bronze, 1 Wood Club
+
+Carpenter's Bench - Weapons & Misc 
+Bronze Shod Quarterstaff
+2 Ingot of Bronze, 1 Wooden Quarterstaff
+
+Carpenter's Bench - Weapons & Misc 
+Iron Shod Club
+2 Ingot of Iron, 1 Wood Club
+
+Carpenter's Bench - Weapons & Misc 
+Iron Shod Quarterstaff
+2 Ingot of Iron, 1 Wooden Quarterstaff
+
+Carpenter's Bench - Weapons & Misc 
+Silver-Coated Club
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Shod Club
+
+Carpenter's Bench - Weapons & Misc 
+Silver Shod Quarterstaff
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze-Shod Quarterstaff
+
+Carpenter's Bench - Weapons & Misc 
+Titanium-Tipped Club
+2 Enchanted Ingot of Titanium, 1 Essence of Power, 1 Iron Shod Club
+
+Carpenter's Bench - Weapons & Misc 
+Titanium Shod Quarterstaff
+2 Enchanted Ingot of Titanium, 1 Essence of Power, 1 Iron-Shod Quarterstaff
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Beast
+1 Shaft of Hickory, 1 Enchanting Oil, 1 Feathers from a Falcon
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Beast +1
+1 Totem of the Beast, 1 Shaft of Oak, 1 Essence of Bark, 1 Cured Malar Panther Hide
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Beast +2
+1 Totem of the Beast +1, 1 Shaft of Mahogany, 1 Essence of Power, 1 Cured Grizzly Bear Hide, 1 Fine Fire Opal
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Beast +3
+1 Totem of the Beast +2, 1 Carved Emblem, 1 Essence of Grace, 1 Cured Legendary Tiger Hide, 1 Fine Diamond
+
+Carpenter's Bench - Weapons & Misc 
+Enchanted Totem of the Beast
+1 Totem of the Beast +3, 1 Gem of Enhancement, 1 Essence of Protection, 1 Staff Piece - Evocation, 1 Wyvern Blood, 1 Fine Emerald
+
+Carpenter's Bench - Weapons & Misc 
+Superior Totem of the Beast
+1 Enchanted Totem of the Beast, 1 Gem of Greater Enhancement, 1 Staff Piece - Transmutation, 1 Essence of Power, 1 Shark, 1 Enchanted Fire Opal
+
+Carpenter's Bench - Weapons & Misc 
+Peerless Totem of the Beast
+1 Superior Totem of the Beast, 1 Gem of Peerless Enhancement, 1 Staff Piece - Conjuration, 1 Essence of Grace, 1 Balor Lord Horn Powder, 1 Enchanted Diamond, 100000 Gold
+
+Carpenter's Bench - Weapons & Misc 
+Superlative Totem of the Beast
+1 Peerless Totem of the Beast, 1 Gem of Superlative Enhancement, 1 Staff Piece - Necromancy, 1 Essence of Protection, 1 Hardened Ancient Red Dragon Heart, 1 Enchanted Emerald, 200000 Gold
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Sage
+1 Shaft of Hickory, 1 Enchanting Oil, 1 Feathers from an Owl
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Sage +1
+1 Totem of the Sage, 1 Shaft of Oak, 1 Essence of Bark, 1 Will O Wisp Essence
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Sage +2
+1 Totem of the Sage +1, 1 Shaft of Mahogany, 1 Essence of Cunning, 1 Slaad's Tongue Paste, 1 Fine Ruby
+
+Carpenter's Bench - Weapons & Misc 
+Totem of the Sage +3
+1 Totem of the Sage +2, 1 Carved Emblem, 1 Essence of Wisdom, 1 Vial of Dragon Blood, 1 Fine Topaz
+
+Carpenter's Bench - Weapons & Misc 
+Enchanted Totem of the Sage
+1 Totem of the Sage +3, 1 Gem of Enhancement, 1 Essence of Charm, 1 Staff Piece - Enchantment, 1 Rage Spider Silk Cloth, 1 Fine Sapphire
+
+Carpenter's Bench - Weapons & Misc 
+Superior Totem of the Sage
+1 Enchanted Totem of the Sage, 1 Gem of Greater Enhancement, 1 Staff Piece - Divination, 1 Essence of Cunning, 1 Marilith Mage Tongue Paste, 1 Enchanted Ruby
+
+Carpenter's Bench - Weapons & Misc 
+Peerless Totem of the Sage
+1 Superior Totem of the Sage, 1 Gem of Peerless Enhancement, 1 Staff Piece - Illusion, 1 Essence of Wisdom, 1 Elder Beholder Mage Eye Stalk, 1 Enchanted Topaz, 100000 Gold
+
+Carpenter's Bench - Weapons & Misc 
+Superlative Totem of the Sage
+1 Peerless Totem of the Sage, 1 Gem of Superlative Enhancement, 1 Staff Piece - Abjuration, 1 Essence of Charm, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Sapphire, 200000 Gold
+

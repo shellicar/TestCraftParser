@@ -1,0 +1,380 @@
+Carpenter's Bench - Bowyer & Fletching
+Shafts for Arrows (2 x 99)
+1 Branch of Hickory
+
+Carpenter's Bench - Bowyer & Fletching
+Shafts for Bolts (2 x 99)
+1 Branch of Hickory
+
+Carpenter's Bench - Bowyer & Fletching
+Advanced Shafts for Arrows (2 x 99)
+1 Branch of Mahogany
+
+Carpenter's Bench - Bowyer & Fletching
+Advanced Shafts for Bolts (2 x 99)
+1 Branch of Mahogany
+
+Carpenter's Bench - Bowyer & Fletching
+Plank of Ash
+1 Branch of Ash
+
+Carpenter's Bench - Bowyer & Fletching
+Plank of Oak
+1 Branch of Oak
+
+Carpenter's Bench - Bowyer & Fletching
+Plank of Hickory
+1 Branch of Hickory
+
+Carpenter's Bench - Bowyer & Fletching
+Plank of Mahogany
+1 Branch of Mahogany
+
+Carpenter's Bench - Bowyer & Fletching
+Short Stave of Hickory
+1 Branch of Hickory
+
+Carpenter's Bench - Bowyer & Fletching
+Long Stave of Hickory
+1 Branch of Hickory
+
+Carpenter's Bench - Bowyer & Fletching
+Short Stave of Mahogany
+1 Branch of Mahogany
+
+Carpenter's Bench - Bowyer & Fletching
+Long Stave of Mahogany
+1 Branch of Mahogany
+
+Carpenter's Bench - Bowyer & Fletching
+Short Stave of Oak
+1 Branch of Oak
+
+Carpenter's Bench - Bowyer & Fletching
+Long Stave of Oak
+1 Branch of Oak
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Plain (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Crushing (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Blunt (99), 1 Feathers from a Raven/Falcon/Owl
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Piercing (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Hooked (99), 1 Feathers from a Raven/Falcon/Owl
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Ice (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Frost
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Thunder (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Thunder
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Holy (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Holy Water
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Lightning (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Lightning
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Acid (90)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Acid
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Arrows, Fire (99)
+1 Shafts for Arrows (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Fire
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Crushing (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced Blunt (99), 1 Feathers from a Raven/Falcon/Owl, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Piercing (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced Hooked (99), 1 Feathers from a Raven/Falcon/Owl, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Ice (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Frost, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Thunder (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Thunder, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Holy (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Holy Water, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Lightning (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Lightning, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Acid (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Acid, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Arrows, Fire (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Fire, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Crushing (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced Blunt (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Piercing (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced Hooked (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Ice (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Bag of Frost, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Thunder (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Bag of Thunder, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Holy (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Holy Water, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Lightning (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Bag of Lightning, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Acid (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Bag of Acid, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Fire (99)
+1 Advanced Shafts for Arrows (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Bag of Fire, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Lethal Arrows, Prismatic (99)
+2 Advanced Shafts for Arrows (99), 2 Arrowheads, Advanced (99), 2 Feathers from a Raven/Falcon/Owl, 1 Essence of Cunning, 1 Bag of Fire, 1 Bag of Acid, 1 Bag of Lightning, 1 Bag of Frost, 1 Prismatic Dragon Scale, 1 Fletching Oil, 1 Schematic - Carpentry 3 in inventory
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Plain (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Crushing (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Blunt (99), 1 Feathers from a Raven/Falcon/Owl
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Piercing (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Hooked (99), 1 Feathers from a Raven/Falcon/Owl
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Ice (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Frost
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Thunder (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Thunder
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Holy (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Holy Water
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Lightning (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Lightning
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Acid (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Acid
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Bolts, Fire (99)
+1 Shafts for Bolts (45), 1 Arrowheads, Plain (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Fire
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Crushing (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced Blunt (99), 1 Feathers from a Raven/Falcon/Owl, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Piercing (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced Hooked (99), 1 Feathers from a Raven/Falcon/Owl, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Ice (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Frost, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Thunder (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Thunder, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Holy (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Holy Water, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Lightning (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Lightning, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Acid (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Acid, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Bundle of Greater Bolts, Fire (99)
+1 Advanced Shafts for Bolts (99), 1 Arrowheads, Advanced (99), 1 Feathers from a Raven/Falcon/Owl, 1 Bag of Fire, 1 Fletching Oil
+
+Carpenter's Bench - Bowyer & Fletching
+Oak Short Bow
+1 Short Stave of Oak, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Oak Light Crossbow
+1 Plank of Oak, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Oak Long Bow
+1 Long Stave of Oak, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Oak Heavy Crossbow
+1 Plank of Oak, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Oak Short Bow
+1 Oak Shortbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Oak Long Bow
+1 Oak Longbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Hickory Short Bow
+1 Short Stave of Hickory, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Hickory Light Crossbow
+1 Plank of Hickory, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Hickory Long Bow
+1 Long Stave of Hickory, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Hickory Heavy Crossbow
+1 Plank of Hickory, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Hickory Short Bow
+1 Hickory Shortbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Hickory Long Bow
+1 Hickory Longbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Mahogany Short Bow
+1 Short Stave of Mahogany, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Mahogany Light Crossbow
+1 Plank of Mahogany, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Mahogany Long Bow
+1 Long Stave of Mahogany, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Mahogany Heavy Crossbow
+1 Plank of Mahogany, 1 Bow String
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Mahogany Short Bow
+1 Mahogany Shortbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Mahogany Long Bow
+1 Mahogany Longbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Compound Heavy Mahogany Crossbow
+1 Heavy Mahogany Crossbow, 2 Compound Bow Cam
+
+Carpenter's Bench - Bowyer & Fletching
+Enhanced Compound Heavy Crossbow
+1 Compound Heavy Mahogany Crossbow, 2 Superior Compound Bow Cam, 1 Gem of Enhancement, 1 Ingot of Enhancement
+
+Carpenter's Bench - Bowyer & Fletching
+Enhanced Compound Short Bow
+1 Compound Mahogany Shortbow, 2 Superior Compound Bow Cam, 1 Gem of Enhancement, 1 Ingot of Enhancement
+
+Carpenter's Bench - Bowyer & Fletching
+Enhanced Compound Long Bow
+1 Compound Mahogany Longbow, 2 Superior Compound Bow Cam, 1 Gem of Enhancement, 1 Ingot of Enhancement
+
+Carpenter's Bench - Bowyer & Fletching
+Archers Superior Compound LongBow
+1 Enhanced Compound Longbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Archers Superior Compound ShortBow
+1 Enhanced Compound  Shortbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Superior Compound LongBow
+1 Enhanced Compound Longbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Superior Compound ShortBow
+1 Enhanced Compound  Shortbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Superior Unlimited Ammo Compound Shortbow
+1 Enhanced Compound  Shortbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Superior Unlimited Ammo Compound Longbow
+1 Enhanced Compound Longbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Superior Unlimited Ammo Compound Heavy Crossbow
+1 Enhanced Compound Heavy Crossbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Superior Compound Heavy Crossbow
+1 Enhanced Compound Heavy Crossbow, 1 Gem of Greater Enhancement, 1 Gem of Bonus Damage
+
+Carpenter's Bench - Bowyer & Fletching
+Archers Peerless Compound LongBow
+1 Archers Superior Longbow, 1 Wurm Weapon Hilt Insert, 1 Gem of Peerless Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 100000 Gold
+
+Carpenter's Bench - Bowyer & Fletching
+Archers Peerless Compound ShortBow
+1 Archers Superior  Shortbow, 1 Wurm Weapon Hilt Insert, 1 Gem of Peerless Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 100000 Gold
+
+Carpenter's Bench - Bowyer & Fletching
+Archers Superlative Compound LongBow
+1 Archers Peerless Longbow, 1 Enchanted Wurm Weapon Hilt Insert, 1 Gem of Superlative Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 200000 Gold
+
+Carpenter's Bench - Bowyer & Fletching
+Archers Superlative Compound ShortBow
+1 Archers Peerless Shortbow, 1 Enchanted Wurm Weapon Hilt Insert, 1 Gem of Superlative Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 200000 Gold
+
+Carpenter's Bench - Bowyer & Fletching
+'TKhathar'siz'the Peerless Longbow
+1 Superior Unlimited Ammo Compound Longbow, 1 Wurm Weapon Hilt Insert, 1 Gem of Peerless Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 100000 Gold, 1 Weapon Deed - Ghudy Gess in inventory
+
+Carpenter's Bench - Bowyer & Fletching
+'Tzyphranyl'the Peerless Longbow
+1 Superior Unlimited Ammo Compound Longbow, 1 Wurm Weapon Hilt Insert, 1 Gem of Peerless Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 100000 Gold, 1 Weapon Deed - Ghudy Gess in inventory
+
+Carpenter's Bench - Bowyer & Fletching
+'TKhathar'siz'the Superlative Longbow
+1 'Khathar'siz' the Peerless Longbow, 1 Enchanted Wurm Weapon Hilt Insert, 1 Gem of Superlative Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 200000 Gold, 1 Weapon Deed - Ghudy Gess in inventory
+
+Carpenter's Bench - Bowyer & Fletching
+'Tzyphranyl'the Superlative Longbow
+1 'Tzyphranyl' the Peerless Longbow, 1 Enchanted Wurm Weapon Hilt Insert, 1 Gem of Superlative Enhancement, 1 Gem of Ability Increase, 1 Gem of Massive Damage, 1 Gem of Bonus Damage, 200000 Gold, 1 Weapon Deed - Ghudy Gess in inventory
+

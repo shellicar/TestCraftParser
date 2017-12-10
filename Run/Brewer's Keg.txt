@@ -1,0 +1,48 @@
+Brewer's Keg
+Broken Knuckle Beer
+1 Rye Wort, 1 Brewer's Yeast, 2 Hops Flower, 1 Skeleton Knuckle Powder, 4 Empty Flask
+
+Brewer's Keg
+Cherry River Lambic
+1 Corn Wort, 1 Brewer's Yeast, 2 Hops Flower, 1 Cherry Juice, 4 Empty Flask
+
+Brewer's Keg
+Dwarf's Sledge Draft
+1 Wheat Wort, 1 Brewer's Yeast, 2 Hops Flower, 2 Chestnuts, 4 Empty Flask
+
+Brewer's Keg
+Iron Hammer Bock
+1 Barley Wort, 1 Brewer's Yeast, 2 Hops Flower, 2 Hazelnuts, 4 Empty Flask
+
+Brewer's Keg
+Jumpin' Juniper Brau
+1 Wheat Wort, 1 Brewer's Yeast, 2 Hops Flower, 2 Juniper Berry, 4 Empty Flask
+
+Brewer's Keg
+Pigs Ear Pilsener
+1 Oat Wort, 1 Brewer's Yeast, 2 Hops Flower, 4 Empty Flask
+
+Brewer's Keg
+Wizard's Wheat Ale
+1 Wheat Wort, 1 Brewer's Yeast, 2 Hops Flower, 1 Sage Leaf, 4 Empty Flask
+
+Brewer's Keg
+Will-o-Whiskey
+1 Corn Wort, 1 Brewer's Yeast, 2 Hops Flower, 4 Empty Flask
+
+Brewer's Keg
+Silver Buckle Gin
+1 Rice Wort, 1 Brewer's Yeast, 2 Hops Flower, 4 Empty Flask
+
+Brewer's Keg
+Black Knight Malt
+1 Barley Wort, 1 Brewer's Yeast, 2 Hops Flower, 3 Blackberry, 4 Empty Flask
+
+Brewer's Keg
+Blue Sword Swill
+2 Grapes, 2 Blueberries, 1 Brewer's Yeast, 4 Empty Flask
+
+Brewer's Keg
+Wine
+4 Grapes, 1 Brewer's Yeast, 4 Empty Flask
+

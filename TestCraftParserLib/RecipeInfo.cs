@@ -6,12 +6,15 @@ namespace TestCraftParserLib
 {
     public class RecipeInfo
     {
-        public RecipeInfo(string created, string location, IEnumerable<ItemRequirement> requirements)
+        public RecipeInfo(string created, string location, IEnumerable<ItemRequirement> requirements, int? createCount)
         {
             ItemCreated = created;
             Location = location;
             Requirements = requirements.ToList();
+            CreateCount = createCount;
         }
+
+        public int? CreateCount { get; }
 
 
         public string ItemCreated { get; }
@@ -24,7 +27,8 @@ namespace TestCraftParserLib
             var sb = new StringBuilder();
 
             sb.AppendLine(Location);
-            sb.AppendLine(ItemCreated);
+            sb.AppendLine(CreateCount.HasValue ? $"{CreateCount}x{ItemCreated}" : ItemCreated);
+
             sb.AppendLine(string.Join(",", Requirements));
 
             return sb.ToString();

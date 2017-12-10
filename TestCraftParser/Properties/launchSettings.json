@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestCraftParser": {
+      "commandName": "Project",
+      "workingDirectory": "..\\Run"
+    }
+  }
+}

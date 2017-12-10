@@ -1,0 +1,48 @@
+Baker's Oven
+Rye Bread(x5)
+1 Rye Flour, 1 Baker's Yeast, 1 Salt, 1 Corn Oil
+
+Baker's Oven
+Wheat Bread(x5)
+1 Wheat Flour, 1 Baker's Yeast, 1 Salt, 1 Corn Oil
+
+Baker's Oven
+Rice Bread(x5)
+1 Rice Flour, 1 Baker's Yeast, 1 Salt, 1 Corn Oil
+
+Baker's Oven
+Oat Bread(x5)
+1 Wheat Flour, 1 Oat Meal, 1 Baker's Yeast, 1 Salt, 1 Cow's Milk, 1 Corn Oil
+
+Baker's Oven
+Corn Bread(x5)
+1 Wheat Flour, 1 Corn Meal, 1 Baker's Yeast, 1 Salt, 1 Corn Oil, 1 Cow's Milk, 1 Chicken Egg
+
+Baker's Oven
+Apple Pie(x5)
+1 Wheat Flour, 1 Salt, 1 Corn Oil, 5 Apple, 1 Sugar
+
+Baker's Oven
+Cherry Pie(x5)
+1 Wheat Flour, 1 Salt, 1 Corn Oil, 5 Cherries, 1 Sugar
+
+Baker's Oven
+Blackberry Pie(x5)
+1 Wheat Flour, 1 Salt, 1 Corn Oil, 5 Blackberry, 1 Sugar
+
+Baker's Oven
+Blueberry Pie(x5)
+1 Wheat Flour, 1 Salt, 1 Corn Oil, 5 Blueberries, 1 Sugar
+
+Baker's Oven
+Pecan Pie(x5)
+1 Wheat Flour, 1 Salt, 1 Corn Oil, 5 Pecans, 1 Sugar
+
+Baker's Oven
+Goodberry Pie (x5)
+1 Wheat Flour, 1 Salt, 1 Almond Oil, 5 Blueberries, 1 Honey, 1 Essence of Cure, 1 Essence of Healing, 1 Essence of Restore, 1 Peppermint Leaf, 1 Cherry River Lambic, 1 Schematic - Food Crafting 2 in inventory
+
+Baker's Oven
+Blank Scroll
+1 Raw Parchment
+

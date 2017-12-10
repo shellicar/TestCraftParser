@@ -1,0 +1,392 @@
+Weapon Crafting Anvil -  Advanced
+Weapon Token
+2 Ingot of Mithril Alloy, 1 Black Dragon Scale Powder, 1 Small Casting Mold
+
+Weapon Crafting Anvil -  Advanced
+Construct Armor Titanium Plating
+2 Titanium Plating, 1 Essence of Protection
+
+Weapon Crafting Anvil -  Advanced
+Titanium Plating
+3 Enchanted Ingot of Titanium, 1 Large Casting Mold
+
+Weapon Crafting Anvil -  Advanced
+Wurm Sword Hilt Insert
+4 Hell Wurm Scale Powder, 6 Red Dragon Scale Powder, 6 Shadow Dragon Scale Powder, 4 Enchanted Ingot of Titanium
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Battleaxe
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Battleaxe
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Dwarven Waraxe
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Dwarven Waraxe
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Greataxe
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Greataxe
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Handaxe
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Handaxe
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Bastard Sword
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Bastard Sword
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Dagger
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Dagger
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Great Sword
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Great Sword
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Longsword
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Longsword
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Rapier
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Rapier
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Scimitar
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Scimitar
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Shortsword
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Shortsword
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Heavy Flail
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Heavy Titanium Flail
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Light Flail
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Light Titanium Flail
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Mace
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Mace
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Morningstar
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Morningstar
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted War Hammer
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Warhammer
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Dire Mace
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Dire Mace
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Two Bladed Sword
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Two-Bladed Sword
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Double Axe
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Double Axe
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Kama
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Kama
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Katana
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Katana
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Kukri
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Kukri
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Sickle
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Sickle
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Kama
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Kama
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Katana
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Katana
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Kukri
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Kukri
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Sickle
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Sickle
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Halberd
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Halberd
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Scythe
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Scythe
+
+Weapon Crafting Anvil -  Advanced
+Peerless Enchanted Spear
+1 Gem of Peerless Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 4 Scroll of Flame Weapon, 100000 Gold, 1 Wurm Weapon Hilt Insert, 1 Superior Enchanted Titanium Spear
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Battleaxe
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Battleaxe
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Dwarven Waraxe
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Dwarven Waraxe
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Greataxe
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Greataxe
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Handaxe
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Handaxe
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Bastard Sword
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Bastard Sword
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Dagger
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Dagger
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Great Sword
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Great Sword
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Longsword
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Longsword
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Rapier
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Rapier
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Scimitar
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted  Scimitar
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Shortsword
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Shortsword
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Heavy Flail
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Heavy Titanium Flail
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Light Flail
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Light Flail
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Mace
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Mace
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Morningstar
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Titanium Morningstar
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted War Hammer
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Warhammer
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Dire Mace
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Titanium Dire Mace
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Two Bladed Sword
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Titanium Two-Bladed Sword
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Double Axe
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Titanium Double Axe
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Kama
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Kama
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Katana
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted  Katana
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Kukri
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Kukri
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Sickle
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted  Sickle
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Halberd
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted  Halberd
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Scythe
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted  Scythe
+
+Weapon Crafting Anvil -  Advanced
+Superlative Enchanted Spear
+1 Gem of Superlative Enhancement, 1 Gem of Bonus Damage, 1 Gem of Massive Damage, 1 Gem of Discipline, 1 Scroll of Flame Weapon, 200000 Gold, 1 Enchanted Wurm Weapon Hilt Insert, 1 Peerless Enchanted Spear
+
+Weapon Crafting Anvil -  Advanced
+Talisman Battleaxe of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Battleaxe
+
+Weapon Crafting Anvil -  Advanced
+Talisman Dwarven Waraxe of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Dwarven Waraxe
+
+Weapon Crafting Anvil -  Advanced
+Talisman Greataxe of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Greataxe
+
+Weapon Crafting Anvil -  Advanced
+Talisman Handaxe of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Handaxe
+
+Weapon Crafting Anvil -  Advanced
+Exclesior Battleaxe
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Battleaxe of The Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Dwarven Waraxe
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Dwarven Waraxe of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Greataxe
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Greataxe of the Dragons , 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Handaxe
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Handaxe of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Talisman Bastard Sword of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Bastard Sword
+
+Weapon Crafting Anvil -  Advanced
+Talisman Dagger of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Dagger
+
+Weapon Crafting Anvil -  Advanced
+Talisman Great Sword of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Great Sword
+
+Weapon Crafting Anvil -  Advanced
+Talisman Longsword of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Longsword
+
+Weapon Crafting Anvil -  Advanced
+Talisman Rapier of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Rapier
+
+Weapon Crafting Anvil -  Advanced
+Talisman Scimitar of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Scimitar
+
+Weapon Crafting Anvil -  Advanced
+Talisman Shortsword of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Shortsword
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Bastard Sword
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Bastard Sword of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Dagger
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Dagger of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Great Sword
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Great Sword of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Longsword
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Longsword of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Rapier
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Rapier of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Scimitar
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Scimitar of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Shortsword
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Shortsword of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Talisman Heavy Flail of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Heavy Titanium Flail
+
+Weapon Crafting Anvil -  Advanced
+Talisman Light Flail of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Light Titanium Flail
+
+Weapon Crafting Anvil -  Advanced
+Talisman Mace of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Mace
+
+Weapon Crafting Anvil -  Advanced
+Talisman Morningstar of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Morningstar
+
+Weapon Crafting Anvil -  Advanced
+Talisman Warhammer of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Warhammer
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Heavy Flail
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Heavy Flail of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Light Flail
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Light Flail of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Mace
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Mace of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Morningstar
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Morningstar of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Warhammer
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Warhammer of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Talisman Halberd of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Halberd
+
+Weapon Crafting Anvil -  Advanced
+Talisman Scythe of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Scythe
+
+Weapon Crafting Anvil -  Advanced
+Talisman Spear of the Dragons
+1 Recipe Weapon of the Dragons, 1 Talisman of the Dragons, 1 Rod of the Elements, 1 Essence of the Dragons, 1 Hardened Ancient Red Dragon Heart, 1 Rage Spider Queen Silk Cloth, 1 Enchanted Titanium Spear
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Halberd
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Halberd of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Scythe
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Scythe of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+
+Weapon Crafting Anvil -  Advanced
+Excelsior Spear
+1 Rainbow Crystal, 1 Eternium Ingot, 1 Gem of Superlative Enhancement, 1 Talisman Spear of the Dragons, 1 Schematic - Weapon Crafting 2 in inventory
+

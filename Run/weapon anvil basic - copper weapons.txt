@@ -1,0 +1,124 @@
+Weapon Crafting Anvil - Standard
+99 Copper Bullets
+3 Ingot of Copper, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Battleaxe
+4 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Dwarven Waraxe
+4 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Greataxe
+4 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Handaxe
+2 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Bastard Sword
+6 Ingot of Copper, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Dagger
+2 Ingot of Copper, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Greatsword
+6 Ingot of Copper, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Longsword
+6 Ingot of Copper, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Rapier
+4 Ingot of Copper, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Scimitar
+4 Ingot of Copper, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Shortsword
+4 Ingot of Copper, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Heavy Flail
+4 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Light Flail
+3 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Light Hammer
+2 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Mace
+3 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Morningstar
+3 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Warhammer
+4 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Double Axe
+6 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Dire Mace
+4 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Two-Bladed Sword
+6 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Kama
+3 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Katana
+5 Ingot of Copper, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Kukri
+2 Ingot of Copper, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Copper Sickle
+2 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Halberd
+3 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Scythe
+3 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+Copper Spear
+2 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+
+Weapon Crafting Anvil - Standard
+50 Copper Dart
+2 Ingot of Copper, 1 Small Casting Mold, 1 Feathers from a Raven/Falcon/Owl
+
+Weapon Crafting Anvil - Standard
+50 Copper Shuriken
+2 Ingot of Copper, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+50 Copper Throwing Axes
+2 Ingot of Copper, 1 Small Casting Mold, 1 Shaft of Hickory
+

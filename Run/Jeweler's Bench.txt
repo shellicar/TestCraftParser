@@ -1,0 +1,456 @@
+Jeweler's Bench
+Copper Greenstone Ring
+1 Ring Mold, 1 Enchanted Ingot of Copper, 1 Enchanted Greenstone
+
+Jeweler's Bench
+Copper Malachite Ring
+1 Ring Mold, 1 Enchanted Ingot of Copper, 1 Enchanted Malachite
+
+Jeweler's Bench
+Copper Fire Agate Ring
+1 Ring Mold, 1 Enchanted Ingot of Copper, 1 Enchanted Fire Agate
+
+Jeweler's Bench
+Copper Adventurine Ring
+1 Ring Mold, 1 Enchanted Ingot of Copper, 1 Enchanted Aventurine
+
+Jeweler's Bench
+Bronze Phenalope Ring
+1 Ring Mold, 1 Enchanted Ingot of Bronze, 1 Enchanted Phenalope
+
+Jeweler's Bench
+Bronze Amethyst Ring
+1 Ring Mold, 1 Enchanted Ingot of Bronze, 1 Enchanted Amethyst
+
+Jeweler's Bench
+Platinum Greenstone Ring
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 3 Enchanted Greenstone, 162 Gold
+
+Jeweler's Bench
+Platinum Malachite Ring
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 3 Enchanted Malachite, 162 Gold
+
+Jeweler's Bench
+Platinum Fire Agate Ring
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 3 Enchanted Fire Agate, 162 Gold
+
+Jeweler's Bench
+Platinum Adventurine Ring
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 3 Enchanted Aventurine, 162 Gold
+
+Jeweler's Bench
+Platinum Phenalope Ring
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 3 Enchanted Phenalope, 162 Gold
+
+Jeweler's Bench
+Platinum Amethyst Ring
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 3 Enchanted Amethyst, 162 Gold
+
+Jeweler's Bench
+Enhanced Silver Diamond Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 3 Enchanted Diamond, 288 Gold
+
+Jeweler's Bench
+Enhanced Silver Emerald Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 3 Enchanted Emerald, 288 Gold
+
+Jeweler's Bench
+Enhanced Silver Fire Opal Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 3 Enchanted Fire Opal, 288 Gold
+
+Jeweler's Bench
+Enhanced Silver Sapphire Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 3 Enchanted Sapphire, 288 Gold
+
+Jeweler's Bench
+Enhanced Silver Topaz Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 3 Enchanted Topaz, 288 Gold
+
+Jeweler's Bench
+Enhanced Silver Ruby Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 3 Enchanted Ruby, 288 Gold
+
+Jeweler's Bench
+Superior Silver Diamond Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Diamond Ring
+
+Jeweler's Bench
+Superior Silver Emerald Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Emerald Ring
+
+Jeweler's Bench
+Superior Silver Fire Opal Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Fire Opal Ring
+
+Jeweler's Bench
+Superior Silver Sapphire Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Sapphire Ring
+
+Jeweler's Bench
+Superior Silver Topaz Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Topaz Ring
+
+Jeweler's Bench
+Superior Silver Ruby Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Ruby Ring
+
+Jeweler's Bench
+Peerless Silver Diamond Ring
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Scroll of Regenerate, 1 Superior Silver Diamond Ring, 1 Enhanced Silver Diamond Ring
+
+Jeweler's Bench
+Peerless Silver Emerald Ring
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Scroll of Regenerate, 1 Superior Silver Emerald Ring, 1 Enhanced Silver Emerald Ring
+
+Jeweler's Bench
+Peerless Silver Fire Opal Ring
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Scroll of Regenerate, 1 Superior Silver Fire Opal Ring, 1 Enhanced Silver Fire Opal Ring
+
+Jeweler's Bench
+Peerless Silver Sapphire Ring
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Scroll of Regenerate, 1 Superior Silver Sapphire Ring, 1 Enhanced Silver Sapphire Ring
+
+Jeweler's Bench
+Peerless Silver Topaz Ring
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Scroll of Regenerate, 1 Enhanced Silver Topaz Ring, 1 Superior Silver Topaz Ring
+
+Jeweler's Bench
+Peerless Silver Ruby Ring
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Scroll of Regenerate, 1 Enhanced Silver Ruby Ring, 1 Superior Silver Ruby Ring
+
+Jeweler's Bench
+Superlative Silver Diamond Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Diamond Ring, 1 Superior Silver Diamond Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Emerald Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Emerald Ring, 1 Superior Silver Emerald Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Fire Opal Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Fire Opal Ring, 1 Superior Silver Fire Opal Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Sapphire Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Sapphire Ring, 1 Superior Silver Sapphire Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Topaz Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Topaz Ring, 1 Superior Silver Topaz Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Ruby Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Ruby Ring, 1 Superior Silver Ruby Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superior Silver Diamond/Amethyst Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Diamond Ring, 1 Enchanted Amethyst
+
+Jeweler's Bench
+Superior Silver Diamond/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Diamond Ring, 1 Enchanted Phenalope
+
+Jeweler's Bench
+Superior Silver Fire Opal/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Fire Opal Ring, 1 Enchanted Aventurine
+
+Jeweler's Bench
+Superior Silver Fire Opal/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Fire Opal Ring, 1 Enchanted Phenalope
+
+Jeweler's Bench
+Superior Silver Ruby/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Ruby Ring, 1 Enchanted Aventurine
+
+Jeweler's Bench
+Superior Silver Ruby/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Ruby Ring, 1 Enchanted Phenalope
+
+Jeweler's Bench
+Superior Silver Sapphire/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Sapphire Ring, 1 Enchanted Aventurine
+
+Jeweler's Bench
+Superior Silver Sapphire/Phenalope
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Sapphire Ring, 1 Enchanted Phenalope
+
+Jeweler's Bench
+Superior Silver Topaz/Amethyst Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Topaz Ring, 1 Enchanted Amethyst
+
+Jeweler's Bench
+Superior Silver Topaz/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 3 Scroll of Invisibility, 1 Scroll of Regenerate, 1 Scroll of See Invisibility, 1 Enhanced Silver Topaz Ring, 1 Enchanted Phenalope
+
+Jeweler's Bench
+Peerless Silver Diamond/Amethyst Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Diamond Ring, 1 Superior Silver Diamond/Amethyst Ring
+
+Jeweler's Bench
+Peerless Silver Diamond/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Diamond Ring, 1 Superior Silver Diamond/Phenalope Ring
+
+Jeweler's Bench
+Peerless Silver Fire Opal/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Fire Opal Ring, 1 Superior Silver Fire Opal/Adventurine Ring
+
+Jeweler's Bench
+Peerless Silver Fire Opal/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Fire Opal Ring, 1 Superior Silver Fire Opal/Phenalope Ring
+
+Jeweler's Bench
+Peerless Silver Ruby/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Ruby Ring, 1 Superior Silver Ruby/Adventurine Ring
+
+Jeweler's Bench
+Peerless Silver Ruby/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Ruby Ring, 1 Superior Silver Ruby/Phenalope Ring
+
+Jeweler's Bench
+Peerless Silver Sapphire/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Sapphire Ring, 1 Superior Silver Sapphire/Adventurine Ring
+
+Jeweler's Bench
+Peerless Silver Sapphire/Phenalope
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Sapphire Ring, 1 Superior Silver Sapphire/Phenalope Ring
+
+Jeweler's Bench
+Peerless Silver Topaz/Amethyst Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Topaz Ring, 1 Superior Silver Topaz/Amethyst Ring
+
+Jeweler's Bench
+Peerless Silver Topaz/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Scroll of Regenerate, 1 Gem of Peerless Enhancement, 1 Enhanced Silver Topaz Ring, 1 Superior Silver Topaz/Phenalope Ring
+
+Jeweler's Bench
+Superlative Silver Diamond/Amethyst Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Diamond/Amethyst Ring, 1 Superior Silver Diamond/Amethyst Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Diamond/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Diamond/Phenalope Ring, 1 Superior Silver Diamond/Phenalope Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Fire Opal/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Fire Opal/Adventurine Ring, 1 Superior Silver Fire Opal/Adventurine Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Fire Opal/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Superior Silver Fire Opal/Phenalope Ring, 1 Peerless Silver Fire Opal/Phenalope Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Ruby/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Ruby/Adventurine Ring, 1 Superior Silver Ruby/Adventurine Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Ruby/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Superior Silver Ruby/Phenalope Ring, 1 Peerless Silver Ruby/Phenalope Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Sapphire/Adventurine Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Sapphire/Adventurine Ring, 1 Superior Silver Sapphire/Adventurine Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Sapphire/Phenalope
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Sapphire/Phenalope Ring, 1 Superior Silver Sapphire/Phenalope Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Topaz/Amethyst Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Topaz/Amethyst Ring, 1 Superior Silver Topaz/Amethyst Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Superlative Silver Topaz/Phenalope Ring
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Scroll of Regenerate, 1 Peerless Silver Topaz/Phenalope Ring, 1 Superior Silver Topaz/Phenalope Ring, 1 Ingot of Enhancement
+
+Jeweler's Bench
+Lesser Healing Ring
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Healing Lotion, 1 Essence of Healing
+
+Jeweler's Bench
+Moderate Healing Ring
+1 Lesser Healing Ring, 1 Enchanted Ingot of Silver, 1 Healing Ointment, 1 Essence of Healing, 1 Scroll(s) of Lesser Restoration
+
+Jeweler's Bench
+Greater Healing Ring
+1 Moderate Healing Ring, 1 Healing Salve, 1 Essence of Healing, 1 Scroll(s) of Healing Circle, 1 Gem of Skill Increase, 1 Gem of Enhancement
+
+Jeweler's Bench
+Epic Healing Ring
+1 Greater Healing Ring, 1 Ingot of Enhancement, 1 Recipe Epic Healing/Recipe Peerless Healing/Recipe Superlative Healing Ring, 1 Healing Elixir, 1 Scroll(s) of Restoration, 1 Gem of Skill Increase, 1 Gem of Peerless Enhancement
+
+Jeweler's Bench
+Lesser Ring of Inner Power
+1 Ring Mold, 1 Enchanted Ingot of Platinum, 1 Enchanted Diamond, 1 Enchanted Emerald, 1 Enchanted Topaz, 1 Enchanted Fire Opal
+
+Jeweler's Bench
+Moderate Ring of Inner Power
+1 Lesser Ring of Inner Power, 1 Lesser Ring of Power, 1 Essence of Magic, 1 Gem of Bonus Feats
+
+Jeweler's Bench
+Greater Ring of Inner Power
+1 Moderate Ring of Inner Power, 1 Ring of Power, 1 Essence of Magic, 1 Gem of Enhancement, 1 Gem of Bonus Feats
+
+Jeweler's Bench
+Epic Ring of Inner Power
+1 Greater Ring of Inner Power, 1 Recipe Epic Ring of Inner Power, 1 Ingot of Enhancement, 1 Essence of Magic, 1 Gem of Peerless Enhancement, 1 Gem of Bonus Feats
+
+Jeweler's Bench
+Lesser Ring of the Rogue
+1 Ring Mold, 1 Enchanted Ingot of Bronze, 1 Enchanting Oil, 1 Weakening Poison
+
+Jeweler's Bench
+Moderate Ring of the Rogue
+1 Lesser Ring of the Rogue, 1 Enchanted Ingot of Platinum, 1 Enchanting Oil, 1 Essence of Cunning, 1 Nerve Poison
+
+Jeweler's Bench
+Greater Ring of the Rogue
+1 Ring Mold, 1 Enchanted Ingot of Silver, 1 Enchanting Oil, 1 Essence of Cunning, 1 Sickening Poison, 1 Gem of Enhancement
+
+Jeweler's Bench
+Epic Ring of the Rogue
+1 Greater Ring of the Rogue, 1 Ingot of Enhancement, 1 Recipe Epic Ring of the Rogue, 1 Essence of Cunning, 1 Necrotic Poison, 1 Gem of Skill Increase, 1 Gem of Peerless Enhancement
+
+Jeweler's Bench
+Bronze Greenstone Scarab
+1 Scarab Mold, 1 Enchanted Ingot of Bronze, 2 Enchanted Greenstone
+
+Jeweler's Bench
+Bronze Malachite Scarab
+1 Scarab Mold, 1 Enchanted Ingot of Bronze, 2 Enchanted Malachite
+
+Jeweler's Bench
+Bronze Fire Agate Scarab
+1 Scarab Mold, 1 Enchanted Ingot of Bronze, 2 Enchanted Fire Agate
+
+Jeweler's Bench
+Bronze Adventurine Scarab
+1 Scarab Mold, 1 Enchanted Ingot of Bronze, 2 Enchanted Aventurine
+
+Jeweler's Bench
+Gold Phenalope Scarab
+1 Scarab Mold, 1 Enchanted Ingot of Gold, 2 Enchanted Phenalope
+
+Jeweler's Bench
+Gold Amethyst Scarab
+1 Scarab Mold, 1 Enchanted Ingot of Gold, 2 Enchanted Amethyst
+
+Jeweler's Bench
+Necklace of Magic Resistance
+1 Necklace Mold, 1 Enchanted Ingot of Bronze, 1 Essence of Bless
+
+Jeweler's Bench
+Necklace of Magic Resistance +1
+1 Necklace of Magic Resistance, 1 Enchanted Ingot of Bronze, 1 Essence of Knowledge
+
+Jeweler's Bench
+Necklace of Magic Resistance +2
+1 Necklace of Magic Resistance +1, 1 Enchanted Ingot of Gold, 1 Essence of Magic
+
+Jeweler's Bench
+Necklace of Magic Resistance +3
+1 Necklace of Magic Resistance +2, 1 Enchanted Ingot of Gold, 1 Scroll(s) of Lesser Spell Mantle
+
+Jeweler's Bench
+Necklace of Magic Resistance +4
+1 Necklace of Magic Resistance +3, 1 Enchanted Ingot of Platinum, 1 Essence of Bless, 1 Essence of Magic, 1 Gem of Enhancement
+
+Jeweler's Bench
+Superior Necklace of Magic Resistance
+1 Necklace of Magic Resistance +4, 1 Enchanted Ingot of Platinum, 1 Scroll(s) of Spell Mantle, 1 Gem of Greater Enhancement, 1 Gem of Resistance
+
+Jeweler's Bench
+Peerless Necklace of Magic Resistance
+1 Superior Necklace of Magic Resistance, 1 Enchanted Ingot of Silver, 1 Essence of Knowledge, 1 Essence of Magic, 1 Gem of Peerless Enhancement, 1 Gem of Resistance
+
+Jeweler's Bench
+Superlative Necklace of Magic Resistance
+1 Peerless Necklace of Magic Resistance, 1 Enchanted Ingot of Silver, 1 Rune of Warding, 1 Scroll(s) of Greater Spell Mantle, 1 Gem of Superlative Enhancement, 1 Gem of Resistance
+
+Jeweler's Bench
+Bronze Fire Agate Amulet
+1 Amulet Mold, 1 Enchanted Ingot of Bronze, 2 Enchanted Fire Agate
+
+Jeweler's Bench
+Gold Feldspar Amulet
+1 Amulet Mold, 1 Enchanted Ingot of Gold, 2 Enchanted Feldspar
+
+Jeweler's Bench
+Platinum Topaz Amulet
+1 Amulet Mold, 1 Enchanted Ingot of Platinum, 2 Enchanted Topaz
+
+Jeweler's Bench
+Enhanced Silver Diamond Amulet
+1 Amulet Mold, 1 Enchanted Ingot of Silver, 1 Essence of Power, 2 Enchanted Diamond
+
+Jeweler's Bench
+Superior Silver Diamond Amulet
+1 Enchanted Ingot of Silver, 1 Gem of Greater Enhancement, 1 Ingot of Enhancement, 1 Enhanced Silver Diamond Amulet, 1 Gem of Damage Resistance
+
+Jeweler's Bench
+Peerless Silver Diamond Amulet
+1 Enchanted Ingot of Silver, 1 Gem of Peerless Enhancement, 1 Superior Silver Diamond Amulet, 1 Ingot of Enhancement, 1 Gem of Damage Resistance
+
+Jeweler's Bench
+Superlative Silver Diamond Amulet
+1 Enchanted Ingot of Silver, 1 Gem of Superlative Enhancement, 1 Superior Silver Diamond Amulet, 1 Ingot of Enhancement, 1 Gem of Damage Resistance
+
+Jeweler's Bench
+Lesser Crown of Focussing
+1 Helm Mold, 1 Enchanted Ingot of Bronze, 1 Essence of Cunning, 2 Enchanted Fire Agate
+
+Jeweler's Bench
+Greater Crown of Focussing
+1 Lesser Crown of Focussing, 1 Enchanted Ingot of Platinum, 1 Essence of Cunning, 2 Enchanted Amethyst, 1 Gem of Enhancement
+
+Jeweler's Bench
+Superior Crown of Focussing
+1 Greater Crown of Focussing, 1 Enchanted Ingot of Silver, 1 Essence of Cunning, 2 Fine Alexandrite, 1 Gem of Skill Increase, 1 Gem of Greater Enhancement
+
+Jeweler's Bench
+Peerless Crown of Focussing
+1 Superior Crown of Focussing, 1 Enchanted Ingot of Silver, 1 Essence of Cunning, 2 Fine Fire Opal, 1 Beholder Mage Paste, 1 Gem of Skill Increase, 1 Gem of Peerless Enhancement
+
+Jeweler's Bench
+Superlative Crown of Focussing
+1 Peerless Crown of Focussing, 1 Enchanted Ingot of Silver, 1 Essence of Cunning, 2 Fine Emerald, 1 Beholder Mage Paste, 1 Scroll(s) of Mind Blank, 1 Gem of Skill Increase, 1 Gem of Superlative Enhancement
+
+Jeweler's Bench
+Glittering Girdle +1
+2 Silk Cloth, 1 Essence of Sight, 2 Enchanted Malachite
+
+Jeweler's Bench
+Glittering Girdle +2
+1 Glittering Girdle +1, 1 Silk Cloth, 1 Essence of Sight, 2 Enchanted Aventurine
+
+Jeweler's Bench
+Glittering Girdle +3
+1 Glittering Girdle +2, 1 Silk Cloth, 1 Essence of Charm, 2 Enchanted Amethyst
+
+Jeweler's Bench
+Glittering Girdle +4
+1 Glittering Girdle +3, 1 Rage Spider Silk Cloth, 1 Essence of Charm, 2 Enchanted Garnet, 1 Gem of Enhancement
+
+Jeweler's Bench
+Superior Glittering Girdle
+1 Glittering Girdle +4, 1 Rage Spider Silk Cloth, 1 Essence of Charm, 1 Essence of Magic, 2 Enchanted Topaz, 1 Gem of Greater Enhancement
+
+Jeweler's Bench
+Peerless Glittering Girdle
+1 Superior Glittering Girdle, 1 Rage Spider Queen Silk Cloth, 1 Essence of Charm, 1 Essence of Magic, 2 Enchanted Fire Opal, 1 Gem of Peerless Enhancement
+
+Jeweler's Bench
+Superlative Glittering Girdle
+1 Peerless Glittering Girdle, 1 Rage Spider Queen Silk Cloth, 1 Essence of Charm, 1 Essence of Magic, 2 Enchanted Ruby, 1 Scroll(s) of Mass Blindness and Deafness, 1 Gem of Superlative Enhancement
+
+Jeweler's Bench
+Gnomish Construct Ocular Lens
+6 Enchanted Diamond, 2 Ingot of Glass, 1 Essence of Sight
+
+Jeweler's Bench
+War Demon Soul Trap
+1 Scroll(s) of Planar Binding, 1 Necklace of Magic Resistance +3, 1 Platinum Topaz Amulet
+
+Jeweler's Bench
+War Fallen Soul Gem
+3 Essence of Healing, 3 Enchanted Emerald, 3 Gnomish Construct Ocular Lens
+

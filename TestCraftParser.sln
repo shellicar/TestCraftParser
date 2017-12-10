@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2010
+VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCraftParser", "TestCraftParser\TestCraftParser.csproj", "{45083779-CE8C-4294-9B50-DB65A0D9F03A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCraftParserLib", "TestCraftParserLib\TestCraftParserLib.csproj", "{0A8A6087-EBD3-4BA7-B2FB-75D1011136CE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCraftParserLib.Tests", "TestCraftParserLib.Tests\TestCraftParserLib.Tests.csproj", "{D2A64C36-82AD-420E-B273-C2179D412705}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordockCraft.Data", "NordockCraft.Data\NordockCraft.Data.csproj", "{C19F8BA4-4693-4C5F-8353-D21C69870222}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordockCraft.Cmd", "NordockCraft.Cmd\NordockCraft.Cmd.csproj", "{742D43E4-CC95-4C61-961B-05DDC64008CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordockCraft.Data.Tests", "NordockCraft.Data.Tests\NordockCraft.Data.Tests.csproj", "{3145B4FD-E2A5-4AF8-8B79-A2BB26E97E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordockCraftApp", "NordockCraftApp\NordockCraftApp.csproj", "{0B22C213-510B-4715-A1D8-3B881C608CD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{D2A64C36-82AD-420E-B273-C2179D412705}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2A64C36-82AD-420E-B273-C2179D412705}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2A64C36-82AD-420E-B273-C2179D412705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19F8BA4-4693-4C5F-8353-D21C69870222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19F8BA4-4693-4C5F-8353-D21C69870222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19F8BA4-4693-4C5F-8353-D21C69870222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19F8BA4-4693-4C5F-8353-D21C69870222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742D43E4-CC95-4C61-961B-05DDC64008CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742D43E4-CC95-4C61-961B-05DDC64008CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742D43E4-CC95-4C61-961B-05DDC64008CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742D43E4-CC95-4C61-961B-05DDC64008CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3145B4FD-E2A5-4AF8-8B79-A2BB26E97E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3145B4FD-E2A5-4AF8-8B79-A2BB26E97E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3145B4FD-E2A5-4AF8-8B79-A2BB26E97E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3145B4FD-E2A5-4AF8-8B79-A2BB26E97E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B22C213-510B-4715-A1D8-3B881C608CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B22C213-510B-4715-A1D8-3B881C608CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B22C213-510B-4715-A1D8-3B881C608CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B22C213-510B-4715-A1D8-3B881C608CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
