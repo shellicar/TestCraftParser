@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -16,7 +17,7 @@ namespace TestCraftParserLib
         private static string DateIdentifier => Regex.Escape("[") + ".*?" + Regex.Escape("]");
         private static string MatchAnyGroup => "(.*)";
 
-        public IEnumerable<RecipeInfo> ParseRecipes(string input)
+        public IEnumerable<RecipeInfo> ParseRecipes(FileInfo filename, string input)
         {
             var pre = PreParse(input);
             return pre.Select(GetRecipe).Where(x => x != null);

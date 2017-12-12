@@ -23,7 +23,7 @@ namespace WindowsFormsApp3
 
         private void ResizeViews()
         {
-            foreach (var view in new[] { listViewIngredients, listViewUses, listViewSimilar, listViewCraftedAt, listViewUsedAt })
+            foreach (var view in new[] {listViewIngredients, listViewUses, listViewSimilar, listViewCraftedAt, listViewUsedAt})
             {
                 if (view.Items.Count > 0)
                 {
@@ -37,7 +37,7 @@ namespace WindowsFormsApp3
         {
             if (typingTimer == null)
             {
-                typingTimer = new Timer { Interval = 1000 };
+                typingTimer = new Timer {Interval = 1000};
                 typingTimer.Tick += HandleTypingTimerTimeout;
             }
 
@@ -108,7 +108,7 @@ namespace WindowsFormsApp3
             {
                 foreach (var q in result.CreatedBy.Ingredients)
                 {
-                    var item = new ListViewItem { Text = q.ItemName };
+                    var item = new ListViewItem {Text = q.ItemName};
                     item.SubItems.Add(q.Amount.ToString());
                     listViewIngredients.Items.Add(item);
                 }
@@ -116,14 +116,14 @@ namespace WindowsFormsApp3
 
             foreach (var q in result.UsedIn)
             {
-                var item = new ListViewItem { Text = q.ItemCreated };
+                var item = new ListViewItem {Text = q.ItemCreated};
                 listViewUses.Items.Add(item);
             }
         }
 
         private static void AddLocationsToView(ListView destList, IImmutableList<LocationDto> src)
         {
-            destList.Items.AddRange(src.Select(x => new ListViewItem { Text = x.Name }).ToArray());
+            destList.Items.AddRange(src.Select(x => new ListViewItem {Text = x.Name}).ToArray());
         }
 
         private void listView1_MouseDoubleClick(object sender, MouseEventArgs e)

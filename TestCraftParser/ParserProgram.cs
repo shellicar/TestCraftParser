@@ -80,8 +80,7 @@ namespace TestCraftParser
         {
             Log.Debug($"Parsing file: {f.Name}");
 
-            //var initial = RecipeParser.ParseRecipes(File.ReadAllText(f.FullName));
-            return BasicParser.ParseRecipes(File.ReadAllText(f.FullName));
+            return BasicParser.ParseRecipes(f, File.ReadAllText(f.FullName));
         }
     }
 }

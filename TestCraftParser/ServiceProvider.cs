@@ -35,7 +35,10 @@ namespace TestCraftParser
             }
         }
 
+        private CraftingContext Context => new CraftingContext(ContextOptions);
+
         public ICreateRecipeService Service => new CreateRecipeService(Access);
+
         public void CreateDatabase()
         {
             using (var context = Context)
@@ -43,8 +46,6 @@ namespace TestCraftParser
                 context.Database.EnsureCreated();
             }
         }
-
-        private CraftingContext Context => new CraftingContext(ContextOptions);
 
         public void Dispose()
         {

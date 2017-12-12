@@ -1,5 +1,4 @@
 ﻿using System;
-using NordockCraft.Data.Model;
 using NordockCraft.Data.Service;
 
 namespace TestCraftParser

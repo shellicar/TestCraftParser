@@ -1,22 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using log4net;
 
 namespace TestCraftParserLib
 {
     public class BasicParser : IRecipeParser
     {
+        private static ILog Log { get; } = LogManager.GetLogger(typeof(BasicParser));
+
         private static Regex SplitRegex { get; } = new Regex(", [0-9]+", RegexOptions.Compiled);
 
         private static Regex NameRegex { get; } = new Regex("^(.+?)(\\(x([0-9]+)\\))? *?$", RegexOptions.Compiled);
 
         private static Regex IngredientRegex { get; } = new Regex("^([0-9]+) (.+)$", RegexOptions.Compiled);
 
-        public IEnumerable<RecipeInfo> ParseRecipes(string input)
+        public IEnumerable<RecipeInfo> ParseRecipes(FileInfo filename, string input)
         {
             var pre = PreParse(input);
-            return pre.Select(GetRecipe).Where(x => x != null);
+            return pre.Select(x => GetRecipe(filename, x)).Where(x => x != null);
         }
 
         public IEnumerable<string> PreParse(string input)
@@ -26,18 +30,18 @@ namespace TestCraftParserLib
             return split;
         }
 
-        public RecipeInfo GetRecipe(string text)
+        public RecipeInfo GetRecipe(FileInfo file, string text)
         {
             var split = text.Split(new[] {Environment.NewLine}, StringSplitOptions.None);
             if (split.Length != 3)
             {
+                Log.Error($"Error parsing file: {file.FullName}");
+                Log.Error($"Text: {text}");
                 throw new ArgumentException();
             }
 
             var location = split[0];
-            int? createCount;
-            var item = ParseName(split[1], out createCount);
-
+            var item = ParseName(split[1], out var createCount);
 
             var split2 = SplitRegex;
             var matches = split2.Matches(split[2]);
