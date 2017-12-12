@@ -36,7 +36,15 @@ namespace TestCraftParser
         }
 
         public ICreateRecipeService Service => new CreateRecipeService(Access);
-        public CraftingContext Context => new CraftingContext(ContextOptions);
+        public void CreateDatabase()
+        {
+            using (var context = Context)
+            {
+                context.Database.EnsureCreated();
+            }
+        }
+
+        private CraftingContext Context => new CraftingContext(ContextOptions);
 
         public void Dispose()
         {

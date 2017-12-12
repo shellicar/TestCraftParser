@@ -7,6 +7,6 @@ namespace TestCraftParser
     public interface IServiceProvider : IDisposable
     {
         ICreateRecipeService Service { get; }
-        CraftingContext Context { get; }
+        void CreateDatabase();
     }
 }

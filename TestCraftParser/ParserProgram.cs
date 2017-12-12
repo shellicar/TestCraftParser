@@ -38,10 +38,7 @@ namespace TestCraftParser
 
         public void Run()
         {
-            using (var context = Provider.Context)
-            {
-                context.Database.EnsureCreated();
-            }
+            Provider.CreateDatabase();
 
             // parse all files
             var query = from file in Parser.Files(Pattern)
