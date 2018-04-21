@@ -30,7 +30,18 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.listViewUsedAt = new System.Windows.Forms.ListView();
+            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.listViewCraftedAt = new System.Windows.Forms.ListView();
+            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.listViewSimilar = new System.Windows.Forms.ListView();
+            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.textBoxCurrentItem = new System.Windows.Forms.TextBox();
             this.listViewUses = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -43,17 +54,6 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.listViewCraftedAt = new System.Windows.Forms.ListView();
-            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.listViewUsedAt = new System.Windows.Forms.ListView();
-            this.label6 = new System.Windows.Forms.Label();
-            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.label7 = new System.Windows.Forms.Label();
-            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
@@ -94,6 +94,91 @@
             this.tabPage1.Text = "tabPage1";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(8, 35);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(44, 13);
+            this.label7.TabIndex = 14;
+            this.label7.Text = "Current:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(357, 465);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(45, 13);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Used At";
+            // 
+            // listViewUsedAt
+            // 
+            this.listViewUsedAt.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader6});
+            this.listViewUsedAt.Location = new System.Drawing.Point(357, 482);
+            this.listViewUsedAt.Name = "listViewUsedAt";
+            this.listViewUsedAt.Size = new System.Drawing.Size(296, 97);
+            this.listViewUsedAt.TabIndex = 12;
+            this.listViewUsedAt.UseCompatibleStateImageBehavior = false;
+            this.listViewUsedAt.View = System.Windows.Forms.View.Details;
+            // 
+            // columnHeader6
+            // 
+            this.columnHeader6.Text = "Location";
+            // 
+            // listViewCraftedAt
+            // 
+            this.listViewCraftedAt.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader5});
+            this.listViewCraftedAt.Location = new System.Drawing.Point(11, 482);
+            this.listViewCraftedAt.Name = "listViewCraftedAt";
+            this.listViewCraftedAt.Size = new System.Drawing.Size(337, 97);
+            this.listViewCraftedAt.TabIndex = 11;
+            this.listViewCraftedAt.UseCompatibleStateImageBehavior = false;
+            this.listViewCraftedAt.View = System.Windows.Forms.View.Details;
+            // 
+            // columnHeader5
+            // 
+            this.columnHeader5.Text = "Location";
+            this.columnHeader5.Width = 228;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(8, 466);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(54, 13);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "Crafted At";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(354, 199);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(50, 13);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Used For";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(426, 9);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(65, 13);
+            this.label3.TabIndex = 7;
+            this.label3.Text = "Similar Items";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(8, 202);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(59, 13);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Ingredients";
+            // 
             // listViewSimilar
             // 
             this.listViewSimilar.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
@@ -105,6 +190,10 @@
             this.listViewSimilar.UseCompatibleStateImageBehavior = false;
             this.listViewSimilar.View = System.Windows.Forms.View.Details;
             this.listViewSimilar.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.listView1_MouseDoubleClick);
+            // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "Item";
             // 
             // textBoxCurrentItem
             // 
@@ -176,7 +265,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(787, 536);
+            this.tabPage2.Size = new System.Drawing.Size(854, 619);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -202,97 +291,9 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(92, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.exitToolStripMenuItem.Text = "Exit";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(8, 202);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(59, 13);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "Ingredients";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(426, 9);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(65, 13);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "Similar Items";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(354, 199);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(50, 13);
-            this.label4.TabIndex = 8;
-            this.label4.Text = "Used For";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(8, 466);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(54, 13);
-            this.label5.TabIndex = 10;
-            this.label5.Text = "Crafted At";
-            // 
-            // listViewCraftedAt
-            // 
-            this.listViewCraftedAt.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader5});
-            this.listViewCraftedAt.Location = new System.Drawing.Point(11, 482);
-            this.listViewCraftedAt.Name = "listViewCraftedAt";
-            this.listViewCraftedAt.Size = new System.Drawing.Size(337, 97);
-            this.listViewCraftedAt.TabIndex = 11;
-            this.listViewCraftedAt.UseCompatibleStateImageBehavior = false;
-            this.listViewCraftedAt.View = System.Windows.Forms.View.Details;
-            // 
-            // columnHeader5
-            // 
-            this.columnHeader5.Text = "Location";
-            this.columnHeader5.Width = 228;
-            // 
-            // listViewUsedAt
-            // 
-            this.listViewUsedAt.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader6});
-            this.listViewUsedAt.Location = new System.Drawing.Point(357, 482);
-            this.listViewUsedAt.Name = "listViewUsedAt";
-            this.listViewUsedAt.Size = new System.Drawing.Size(296, 97);
-            this.listViewUsedAt.TabIndex = 12;
-            this.listViewUsedAt.UseCompatibleStateImageBehavior = false;
-            this.listViewUsedAt.View = System.Windows.Forms.View.Details;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(357, 465);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(45, 13);
-            this.label6.TabIndex = 13;
-            this.label6.Text = "Used At";
-            // 
-            // columnHeader6
-            // 
-            this.columnHeader6.Text = "Location";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(8, 35);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(44, 13);
-            this.label7.TabIndex = 14;
-            this.label7.Text = "Current:";
-            // 
-            // columnHeader4
-            // 
-            this.columnHeader4.Text = "Item";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // Form1
             // 

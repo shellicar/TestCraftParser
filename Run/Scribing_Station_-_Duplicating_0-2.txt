@@ -1,0 +1,348 @@
+Scribing Station - Duplicating (0-2) 
+Resistance
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Greenstone, 1 Scroll(s) of Resistance
+
+Scribing Station - Duplicating (0-2) 
+Endure Elements
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Endure Elements
+
+Scribing Station - Duplicating (0-2) 
+Entropic Shield
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Entropic Shield
+
+Scribing Station - Duplicating (0-2) 
+Iron Guts
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Ironguts
+
+Scribing Station - Duplicating (0-2) 
+Lesser Dispel
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Aventurine, 1 Scroll(s) of Lesser Dispel
+
+Scribing Station - Duplicating (0-2) 
+Remove Fear
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Remove Fear
+
+Scribing Station - Duplicating (0-2) 
+Sanctuary
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Sanctuary
+
+Scribing Station - Duplicating (0-2) 
+Shield
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Shield
+
+Scribing Station - Duplicating (0-2) 
+Shield of Faith
+1 Blank Scroll, 1 Ink of Abjuration, 1 Dust of Malachite, 1 Scroll(s) of Shield of Faith
+
+Scribing Station - Duplicating (0-2) 
+Clarity
+1 Blank Scroll, 1 Ink of Abjuration, 1 Essence of Sight, 1 Scroll(s) of Clarity
+
+Scribing Station - Duplicating (0-2) 
+Protection from Elements
+1 Blank Scroll, 1 Ink of Abjuration, 1 Essence of Protection, 1 Scroll(s) of Protection from Elements
+
+Scribing Station - Duplicating (0-2) 
+Resist Elements
+1 Blank Scroll, 1 Ink of Abjuration, 1 Essence of Protection, 1 Scroll(s) of Resist Elements
+
+Scribing Station - Duplicating (0-2) 
+Acid Splash
+1 Blank Scroll, 1 Ink of Conjuration, 1 Dust of Greenstone, 1 Scroll(s) of Acid Splash
+
+Scribing Station - Duplicating (0-2) 
+Cure Minor Wounds
+1 Blank Scroll, 1 Ink of Conjuration, 1 Essence of Cure, 1 Scroll(s) of Cure Minor Wounds
+
+Scribing Station - Duplicating (0-2) 
+Ray of Frost
+1 Blank Scroll, 1 Ink of Conjuration, 1 Dust of Greenstone, 1 Scroll(s) of Ray of Frost
+
+Scribing Station - Duplicating (0-2) 
+Cure Light Wounds
+1 Blank Scroll, 1 Ink of Conjuration, 1 Essence of Cure, 1 Scroll(s) of Cure Light Wounds
+
+Scribing Station - Duplicating (0-2) 
+Grease
+1 Blank Scroll, 1 Ink of Conjuration, 1 Dust of Malachite, 1 Scroll(s) of Grease
+
+Scribing Station - Duplicating (0-2) 
+Mage Armor
+1 Blank Scroll, 1 Ink of Conjuration, 1 Dust of Malachite, 1 Scroll(s) of Mage Armor
+
+Scribing Station - Duplicating (0-2) 
+Summon Creature I
+1 Blank Scroll, 1 Ink of Conjuration, 1 Skin of a Badger, 1 Scroll(s) of Summon Creature I
+
+Scribing Station - Duplicating (0-2) 
+Cure Moderate Wounds
+1 Blank Scroll, 1 Ink of Conjuration, 1 Essence of Cure, 1 Scroll(s) of Cure Moderate Wounds
+
+Scribing Station - Duplicating (0-2) 
+Lesser Restoration
+1 Blank Scroll, 1 Ink of Conjuration, 1 Dust of Aventurine, 1 Scroll(s) of Lesser Restoration
+
+Scribing Station - Duplicating (0-2) 
+Melf's Acid Arrow
+1 Blank Scroll, 1 Ink of Conjuration, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow
+
+Scribing Station - Duplicating (0-2) 
+Remove Paralysis
+1 Blank Scroll, 1 Ink of Conjuration, 1 Dust of Aventurine, 1 Scroll(s) of Remove Paralysis
+
+Scribing Station - Duplicating (0-2) 
+Summon Creature II
+1 Blank Scroll, 1 Ink of Conjuration, 1 Skin of a Deer, 1 Scroll(s) of Summon Creature II
+
+Scribing Station - Duplicating (0-2) 
+Web
+1 Blank Scroll, 1 Ink of Conjuration, 1 Spider Silk, 1 Scroll(s) of Web
+
+Scribing Station - Duplicating (0-2) 
+Identify
+1 Blank Scroll, 1 Ink of Divination, 1 Dust of Malachite, 1 Scroll(s) of Identify
+
+Scribing Station - Duplicating (0-2) 
+True Strike
+1 Blank Scroll, 1 Ink of Divination, 1 Dust of Malachite, 1 Scroll(s) of True Strike
+
+Scribing Station - Duplicating (0-2) 
+See Invisibility
+1 Blank Scroll, 1 Ink of Divination, 1 Essence of Sight, 1 Scroll(s) of See Invisibility
+
+Scribing Station - Duplicating (0-2) 
+Daze
+1 Blank Scroll, 1 Ink of Enchantment, 1 Dust of Greenstone, 1 Scroll(s) of Daze
+
+Scribing Station - Duplicating (0-2) 
+Bane
+1 Blank Scroll, 1 Ink of Enchantment, 1 Dust of Malachite, 1 Scroll(s) of Bane
+
+Scribing Station - Duplicating (0-2) 
+Bless
+1 Blank Scroll, 1 Ink of Enchantment, 1 Essence of Bless, 1 Scroll(s) of Bless
+
+Scribing Station - Duplicating (0-2) 
+Charm Person
+1 Blank Scroll, 1 Ink of Enchantment, 1 Apple Pie, 1 Scroll(s) of Charm Person
+
+Scribing Station - Duplicating (0-2) 
+Sleep
+1 Blank Scroll, 1 Ink of Enchantment, 1 Dust of Malachite, 1 Scroll(s) of Sleep
+
+Scribing Station - Duplicating (0-2) 
+Aid
+1 Blank Scroll, 1 Ink of Enchantment, 1 Holy Water, 1 Scroll(s) of Aid
+
+Scribing Station - Duplicating (0-2) 
+Blindness and Deafness
+1 Blank Scroll, 1 Ink of Enchantment, 1 Dust of Fire Agate, 1 Scroll(s) of Blindness and Deafness
+
+Scribing Station - Duplicating (0-2) 
+Charm Person or Animal
+1 Blank Scroll, 1 Ink of Enchantment, 1 Apple Pie, 1 Scroll(s) of Charm Person or Animal
+
+Scribing Station - Duplicating (0-2) 
+Hold Animal
+1 Blank Scroll, 1 Ink of Enchantment, 1 Apple Pie, 1 Scroll(s) of Hold Animal
+
+Scribing Station - Duplicating (0-2) 
+Hold Person
+1 Blank Scroll, 1 Ink of Enchantment, 1 Apple Pie, 1 Scroll(s) of Hold Person
+
+Scribing Station - Duplicating (0-2) 
+Electric Jolt
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Greenstone, 1 Scroll(s) of Electric Jolt
+
+Scribing Station - Duplicating (0-2) 
+Flare
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Greenstone, 1 Scroll(s) of Flare
+
+Scribing Station - Duplicating (0-2) 
+Light
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Greenstone, 1 Scroll(s) of Light
+
+Scribing Station - Duplicating (0-2) 
+Horizikauls Boom
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Malachite, 1 Scroll(s) of Horizikaul's Boom
+
+Scribing Station - Duplicating (0-2) 
+Ice Dagger
+1 Blank Scroll, 1 Ink of Evocation, 1 Bag of Frost, 1 Scroll(s) of Ice Dagger
+
+Scribing Station - Duplicating (0-2) 
+Magic Missile
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Greenstone, 1 Scroll(s) of Magic Missile
+
+Scribing Station - Duplicating (0-2) 
+Shelgarn's Persistent Blade
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Malachite, 1 Scroll(s) of Shelgarn's Persistent Blade
+
+Scribing Station - Duplicating (0-2) 
+Darkness
+1 Blank Scroll, 1 Ink of Evocation, 1 Dust of Fire Agate, 1 Scroll(s) of Darkness
+
+Scribing Station - Duplicating (0-2) 
+Flame Lash
+1 Blank Scroll, 1 Ink of Evocation, 1 Bag of Fire, 1 Scroll(s) of Flame Lash
+
+Scribing Station - Duplicating (0-2) 
+Flame Weapon
+1 Blank Scroll, 1 Ink of Evocation, 1 Bag of Fire, 1 Scroll(s) of Flame Weapon
+
+Scribing Station - Duplicating (0-2) 
+Sound Burst
+1 Blank Scroll, 1 Ink of Evocation, 1 Bag of Thunder, 1 Scroll(s) of Sound Burst
+
+Scribing Station - Duplicating (0-2) 
+Combust
+1 Blank Scroll, 1 Ink of Evocation, 1 Bag of Fire, 1 Scroll(s) of Combust
+
+Scribing Station - Duplicating (0-2) 
+Color Spray
+1 Blank Scroll, 1 Ink of Illusion, 1 Dust of Greenstone, 1 Scroll(s) of Color Spray
+
+Scribing Station - Duplicating (0-2) 
+Ghostly Visage
+1 Blank Scroll, 1 Ink of Illusion, 1 Dust of Fire Agate, 1 Scroll(s) of Ghostly Visage
+
+Scribing Station - Duplicating (0-2) 
+Invisibility
+1 Blank Scroll, 1 Ink of Illusion, 1 Essence of Vanishing, 1 Scroll(s) of Invisibility
+
+Scribing Station - Duplicating (0-2) 
+Silence
+1 Blank Scroll, 1 Ink of Illusion, 1 Dust of Phenalope, 1 Scroll(s) of Silence
+
+Scribing Station - Duplicating (0-2) 
+Inflict Minor Wounds
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Greenstone, 1 Scroll(s) of Inflict Minor Wounds
+
+Scribing Station - Duplicating (0-2) 
+Inflict Light Wounds
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Greenstone, 1 Scroll(s) of Inflict Light Wounds
+
+Scribing Station - Duplicating (0-2) 
+Negative Energy Ray
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Greenstone, 1 Scroll(s) of Negative Energy Ray
+
+Scribing Station - Duplicating (0-2) 
+Ray of Enfeeblement
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Malachite, 1 Scroll(s) of Ray of Enfeeblement
+
+Scribing Station - Duplicating (0-2) 
+Scare
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Malachite, 1 Scroll(s) of Scare
+
+Scribing Station - Duplicating (0-2) 
+Inflict Moderate Wounds
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Aventurine, 1 Scroll(s) of Inflict Moderate Wounds
+
+Scribing Station - Duplicating (0-2) 
+Ghoul Touch
+1 Blank Scroll, 1 Ink of Necromancy, 1 Dust of Aventurine, 1 Scroll(s) of Ghoul Touch
+
+Scribing Station - Duplicating (0-2) 
+Virtue
+1 Blank Scroll, 1 Ink of Transmutation, 1 Dust of Greenstone, 1 Scroll(s) of Virtue
+
+Scribing Station - Duplicating (0-2) 
+Burning Hands
+1 Blank Scroll, 1 Ink of Transmutation, 1 Bag of Fire, 1 Scroll(s) of Burning Hands
+
+Scribing Station - Duplicating (0-2) 
+Entangle
+1 Blank Scroll, 1 Ink of Transmutation, 1 Dust of Malachite, 1 Scroll(s) of Entangle
+
+Scribing Station - Duplicating (0-2) 
+Expeditious Retreat
+1 Blank Scroll, 1 Ink of Transmutation, 1 Dust of Malachite, 1 Scroll(s) of Expeditious Retreat
+
+Scribing Station - Duplicating (0-2) 
+Magic Weapon
+1 Blank Scroll, 1 Ink of Transmutation, 1 Dust of Malachite, 1 Scroll(s) of Magic Weapon
+
+Scribing Station - Duplicating (0-2) 
+Barkskin
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Bark, 1 Scroll(s) of Barkskin
+
+Scribing Station - Duplicating (0-2) 
+Bull's Strength
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Power, 1 Scroll(s) of Bull's Strength
+
+Scribing Station - Duplicating (0-2) 
+Cat's Grace
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Grace, 1 Scroll(s) of Cat's Grace
+
+Scribing Station - Duplicating (0-2) 
+Eagle's Splendor
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Charm, 1 Eagle's Splendor
+
+Scribing Station - Duplicating (0-2) 
+Endurance
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Power, 1 Scroll(s) of Endurance
+
+Scribing Station - Duplicating (0-2) 
+Fox's Cunning
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Cunning, 1 Scroll(s) of Fox's Cunning
+
+Scribing Station - Duplicating (0-2) 
+Knock
+1 Blank Scroll, 1 Ink of Transmutation, 1 Dust of Aventurine, 1 Scroll(s) of Knock
+
+Scribing Station - Duplicating (0-2) 
+Stone Bones
+1 Blank Scroll, 1 Ink of Transmutation, 1 Dust of Aventurine, 1 Scroll(s) of Stone Bones
+
+Scribing Station - Duplicating (0-2) 
+Owl's Wisdom
+1 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Wisdom, 1 Scroll(s) of Owl's Wisdom
+
+Scribing Station - Duplicating (0-2) 
+Bull's Strength X 3
+3 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Power, 1 Scroll of Bull's Strength
+
+Scribing Station - Duplicating (0-2) 
+Cat's Grace X 3
+3 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Grace, 1 Scroll of Cat's Grace
+
+Scribing Station - Duplicating (0-2) 
+Clarity X 3
+3 Blank Scroll, 1 Ink of Abjuration, 1 Essence of Sight, 1 Scroll of Clarity
+
+Scribing Station - Duplicating (0-2) 
+Endurance X 3
+3 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Power, 1 Scroll of Endurance
+
+Scribing Station - Duplicating (0-2) 
+Flame Weapon X 3
+3 Blank Scroll, 1 Ink of Evocation, 1 Bag of Fire, 1 Scroll of Flame Weapon
+
+Scribing Station - Duplicating (0-2) 
+Fox's Cunning X 3
+3 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Cunning, 1 Scroll of Fox's Cunning
+
+Scribing Station - Duplicating (0-2) 
+Ghostly Visage X 3
+3 Blank Scroll, 1 Ink of Illusion, 1 Dust of Fire Agate, 1 Scroll of Ghostly Visage
+
+Scribing Station - Duplicating (0-2) 
+Invisibility X 3
+3 Blank Scroll, 1 Ink of Illusion, 1 Essence of Vanishing, 1 Scroll of Invisibility
+
+Scribing Station - Duplicating (0-2) 
+Owl's Wisdom X 3
+3 Blank Scroll, 1 Ink of Transmutation, 1 Essence of Wisdom, 1 Scroll of Owl's Wisdom
+
+Scribing Station - Duplicating (0-2) 
+Protection from Elements X 3
+3 Blank Scroll, 1 Ink of Abjuration, 1 Essence of Protection, 1 Scroll of Protection from Elements
+
+Scribing Station - Duplicating (0-2) 
+Resist Elements X 3
+3 Blank Scroll, 1 Ink of Abjuration, 1 Essence of Protection, 1 Scroll of Resist Elements
+
+Scribing Station - Duplicating (0-2) 
+See Invisibility X 3
+3 Blank Scroll, 1 Ink of Divination, 1 Essence of Sight, 1 Scroll of See Invisibility
+

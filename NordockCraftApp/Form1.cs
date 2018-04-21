@@ -139,5 +139,10 @@ namespace WindowsFormsApp3
                 DoLookup(text);
             }
         }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
