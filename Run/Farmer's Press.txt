@@ -1,0 +1,80 @@
+Farmer's Press
+Corn Oil
+2 Corn Meal, 1 Empty Flask
+
+Farmer's Press
+Rice Oil
+2 Rice Meal, 1 Empty Flask
+
+Farmer's Press
+Almond Oil
+2 Almonds, 1 Empty Flask
+
+Farmer's Press
+Chestnut Oil
+2 Chestnuts, 1 Empty Flask
+
+Farmer's Press
+Hazelnut Oil
+2 Hazelnuts, 1 Empty Flask
+
+Farmer's Press
+Pecan Oil
+2 Pecans, 1 Empty Flask
+
+Farmer's Press
+Walnut Oil
+2 Walnuts, 1 Empty Flask
+
+Farmer's Press
+Apple Juice
+2 Apple, 1 Empty Flask
+
+Farmer's Press
+Blackberry Juice
+4 Blackberry, 1 Empty Flask
+
+Farmer's Press
+Blueberry Juice
+4 Blueberries, 1 Empty Flask
+
+Farmer's Press
+Cherry Juice
+4 Cherries, 1 Empty Flask
+
+Farmer's Press
+Cranberry Juice
+4 Cranberries, 1 Empty Flask
+
+Farmer's Press
+Elderberry Juice
+4 Elderberries, 1 Empty Flask
+
+Farmer's Press
+Grape Juice
+4 Grapes, 1 Empty Flask
+
+Farmer's Press
+Juniper Berry Juice
+4 Juniper Berry, 1 Empty Flask
+
+Farmer's Press
+Pear Juice
+4 Pear, 1 Empty Flask
+
+Farmer's Press
+Raspberry Juice
+4 Raspberries, 1 Empty Flask
+
+Farmer's Press
+Healing Poultice
+2 Comfrey Root, 2 Aloe Leaf, 2 Calendula Flower, 2 Echinacea Flower, 1 Honey, 1 Empty Flask
+
+Farmer's Press
+Honey & Beeswax
+2 Honey Comb, 1 Empty Flask
+
+Farmer's Press
+Raw Parchment
+2 Bag of Saw Dust, 1 Water
+

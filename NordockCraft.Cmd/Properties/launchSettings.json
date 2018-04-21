@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NordockCraft.Cmd": {
+      "commandName": "Project",
+      "workingDirectory": "..\\Run"
+    }
+  }
+}

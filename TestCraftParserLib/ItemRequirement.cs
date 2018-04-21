@@ -5,7 +5,7 @@ namespace TestCraftParserLib
 {
     public class ItemRequirement
     {
-        private ItemRequirement(int amount, string name)
+        public ItemRequirement(int amount, string name)
         {
             Amount = amount;
             ItemName = name;
@@ -24,7 +24,9 @@ namespace TestCraftParserLib
             var reg = new Regex("^[0-9]+ of ([0-9]+) +(.+)$");
             var m = reg.Match(arg);
             if (!m.Success)
+            {
                 throw new InvalidOperationException();
+            }
 
             var amount = int.Parse(m.Groups[1].Value);
             var name = m.Groups[2].Value;

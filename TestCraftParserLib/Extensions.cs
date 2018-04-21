@@ -15,7 +15,9 @@ namespace TestCraftParserLib
             using (var e = source.GetEnumerator())
             {
                 if (!e.MoveNext())
+                {
                     yield break;
+                }
 
                 var last = e.Current;
 
@@ -37,7 +39,9 @@ namespace TestCraftParserLib
             foreach (var str in source)
             {
                 if (until(str))
+                {
                     yield break;
+                }
                 yield return str;
             }
         }

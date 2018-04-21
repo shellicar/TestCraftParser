@@ -1,0 +1,124 @@
+Weapon Crafting Anvil - Standard
+99 Iron Bullet
+3 Ingot of Iron, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Battleaxe
+4 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Dwarven Waraxe
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Greataxe
+4 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Handaxe
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Bastard Sword
+6 Ingot of Iron, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Dagger
+2 Ingot of Iron, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Greatsword
+6 Ingot of Iron, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Longsword
+6 Ingot of Iron, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Rapier
+4 Ingot of Iron, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Scimitar
+4 Ingot of Iron, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Shortsword
+4 Ingot of Iron, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Heavy Flail
+5 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Light Flail
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Light Hammer
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Mace
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Morningstar
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Warhammer
+4 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Double Axe
+5 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Dire Mace
+4 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Two-Bladed Sword
+6 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Kama
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Katana
+5 Ingot of Iron, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Kukri
+2 Ingot of Iron, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Iron Sickle
+2 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Halberd
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Scythe
+3 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+Iron Spear
+2 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+
+Weapon Crafting Anvil - Standard
+50 Iron Dart
+2 Ingot of Iron, 1 Small Casting Mold, 1 Feathers from a Raven/Falcon/Owl
+
+Weapon Crafting Anvil - Standard
+50 Iron Shuriken
+2 Ingot of Iron, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+50 Iron Throwing Axes
+2 Ingot of Iron, 1 Small Casting Mold, 1 Shaft of Mahogany
+

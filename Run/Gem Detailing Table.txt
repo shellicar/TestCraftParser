@@ -1,0 +1,100 @@
+Gem Detailing Table
+Fine Greenstone
+1 Cut Greenstone, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Malachite
+1 Cut Malachite, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Fire Agate
+1 Cut Fire Agate, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Aventurine
+1 Cut Aventurine, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Phenalope
+1 Cut Phenalope, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Amethyst
+1 Cut Amethyst, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Feldspar
+1 Cut Feldspar, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Garnet
+1 Cut Garnet, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Alexandrite
+1 Cut Alexandrite, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Topaz
+1 Cut Topaz, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Sapphire
+1 Cut Sapphire, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Fire Opal
+1 Cut Fire Opal, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Diamond
+1 Cut Diamond, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Ruby
+1 Cut Ruby, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Fine Emerald
+1 Cut Emerald, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Flawless Fine Diamond
+1 Flawless Cut Diamond, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Flawless Fine Fire Opal
+1 Flawless Cut Fire Opal, 1 Gem Polishing Oil 
+
+Gem Detailing Table
+Crystalised Fire
+1 Bag of Fire, 1 Enchanted Fire Opal, 1 Ingot of Glass, 1 Essence of Magic
+
+Gem Detailing Table
+Crystalised Acid
+1 Bag of Acid, 1 Enchanted Emerald, 1 Ingot of Glass, 1 Essence of Magic
+
+Gem Detailing Table
+Crystalised Frost
+1 Bag of Frost, 1 Enchanted Sapphire, 1 Ingot of Glass, 1 Essence of Magic
+
+Gem Detailing Table
+Crystalised Lightning
+1 Bag of Lightning, 1 Enchanted Topaz, 1 Ingot of Glass, 1 Essence of Magic
+
+Gem Detailing Table
+Gem of Enhancement
+3 Gem of Keen Edge, 3 Enchanted Amethyst, 1 Scroll(s) of Lesser Planar Binding, 1 Schematic - Gem Crafting 2 in inventory
+
+Gem Detailing Table
+Gem of Greater Enhancement
+3 Gem of Enhancement, 3 Enchanted Sapphire, 1 Scroll(s) of Planar Binding, 1 Schematic - Gem Crafting 2 in inventory
+
+Gem Detailing Table
+Flawless Fine Diamond
+3 Gem of Greater Enhancement, 5 Fine Diamond, 1 Scroll(s) of Greater Planar Binding, 1 Schematic - Gem Crafting 3 in inventory
+
+Gem Detailing Table
+Flawless Fine Fire Opal
+3 Gem of Greater Enhancement, 5 Fine Fire Opal, 1 Scroll(s) of Greater Planar Binding, 1 Schematic - Gem Crafting 3 in inventory
+

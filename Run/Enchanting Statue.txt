@@ -1,0 +1,208 @@
+Enchanting Statue
+Buckler of Cold
+1 Enchanting Oil, 1 Bag of Frost, 1 Copper Buckler
+
+Enchanting Statue
+Large Shield of Cold
+1 Enchanting Oil, 1 Bag of Frost, 1 Large Copper Shield
+
+Enchanting Statue
+Tower Shield of Cold
+1 Enchanting Oil, 1 Bag of Frost, 1 Copper Tower Shield
+
+Enchanting Statue
+Buckler of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Bronze Buckler
+
+Enchanting Statue
+Large Shield of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Large Bronze Shield
+
+Enchanting Statue
+Tower Shield of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Bronze Tower Shield
+
+Enchanting Statue
+Buckler of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Iron Buckler
+
+Enchanting Statue
+Large Shield of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Large Iron Shield
+
+Enchanting Statue
+Tower Shield of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Iron Tower Shield
+
+Enchanting Statue
+Buckler of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Cobalt Buckler
+
+Enchanting Statue
+Large Shield of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Large Cobalt Shield
+
+Enchanting Statue
+Tower Shield of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Cobalt Tower Shield
+
+Enchanting Statue
+Superior Elemental Buckler
+1 Buckler of Cold, 1 Buckler of Lightning, 1 Buckler of Fire, 1 Gem of Greater Enhancement
+
+Enchanting Statue
+Superior Elemental Large Shield
+1 Large Shield of Cold, 1 Large Shield of Lightning, 1 Large Shield of Fire, 1 Gem of Greater Enhancement
+
+Enchanting Statue
+Superior Elemental Tower Shield
+1 Tower Shield of Cold, 1 Tower Shield of Lightning, 1 Tower Shield of Fire, 1 Gem of Greater Enhancement
+
+Enchanting Statue
+Peerless Elemental Buckler
+1 Superior Elemental Buckler, 1 Buckler of Acid, 1 Ingot of Enhancement, 1 Gem of Peerless Enhancement, 1 Gem of Skill Increase
+
+Enchanting Statue
+Peerless Elemental Large Shield
+1 Superior Elemental Buckler, 1 Large Shield of Acid, 1 Ingot of Enhancement, 1 Gem of Peerless Enhancement, 1 Gem of Skill Increase
+
+Enchanting Statue
+Peerless Elemental Tower Shield
+1 Superior Elemental Tower Shield, 1 Tower Shield of Acid, 1 Ingot of Enhancement, 1 Gem of Peerless Enhancement, 1 Gem of Skill Increase
+
+Enchanting Statue
+Superlative Elemental Buckler
+1 Peerless Elemental Buckler, 1 Gnomish Construct Titanium Armor Plating, 1 Rune of Magic, 1 Gem of Superlative Enhancement, 1 Gem of Skill Increase, 200000 Gold
+
+Enchanting Statue
+Superlative Elemental Large Shield
+1 Peerless Elemental Buckler, 1 Gnomish Construct Titanium Armor Plating, 1 Rune of Magic, 1 Gem of Superlative Enhancement, 1 Gem of Skill Increase, 200000 Gold
+
+Enchanting Statue
+Superlative Elemental Tower Shield
+1 Peerless Elemental Tower Shield, 1 Gnomish Construct Titanium Armor Plating, 1 Rune of Magic, 1 Gem of Superlative Enhancement, 1 Gem of Skill Increase, 200000 Gold
+
+Enchanting Statue
+Gloves of Sorcery +1
+1 Silk Gloves, 1 Enchanting Oil, 1 Scroll(s) of Magic Missile
+
+Enchanting Statue
+Gloves of Sorcery +2
+1 Gloves of Sorcery +1, 1 Enchanting Oil, 1 Scroll(s) of Lesser Dispel
+
+Enchanting Statue
+Gloves of Sorcery +3
+1 Gloves of Sorcery +2, 1 Enchanting Oil, 1 Scroll(s) of Isaac's Lesser Missile Storm
+
+Enchanting Statue
+Gloves of Sorcery +4
+1 Gloves of Sorcery +3, 1 Essence of Magic, 1 Scroll(s) of Lesser Spell Breach, 1 Gem of Enhancement
+
+Enchanting Statue
+Superior Gloves of Sorcery
+1 Gloves of Sorcery +4, 1 Essence of Magic, 1 Scroll(s) of Isaac's Greater Missile Storm, 1 Gem of Greater Enhancement, 1 Gem of Ability Increase
+
+Enchanting Statue
+Peerless Gloves of Sorcery
+1 Superior Gloves of Sorcery, 1 Essence of Magic, 1 Scroll(s) of Protection from Spells, 1 Gem of Peerless Enhancement, 1 Gem of Ability Increase
+
+Enchanting Statue
+Superlative Gloves of Sorcery
+1 Peerless Gloves of Sorcery, 1 Rune of Magic, 1 Scroll(s) of Mordenkainen's Disjunction, 1 Gem of Superlative Enhancement, 1 Gem of Ability Increase
+
+Enchanting Statue
+Superior Titanium Buckler
+1 Gem of Greater Enhancement, 1 Gem of Discipline, 1 Gem of Damage Resistance, 1 Titanium Buckler
+
+Enchanting Statue
+Superior Titanium Large Shield
+1 Gem of Greater Enhancement, 1 Gem of Discipline, 1 Gem of Damage Resistance, 1 Large Titanium Shield
+
+Enchanting Statue
+Superior Titanium Tower Shield
+1 Gem of Greater Enhancement, 1 Gem of Discipline, 1 Gem of Damage Resistance, 1 Titanium Tower Shield
+
+Enchanting Statue
+Superior Robes of the Bard
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Bonus Spell Slot, 1 Scroll of Stoneskin, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Robes of the Brawler
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 3 Scroll of Bull's Strength, 3 Scroll of Cat's Grace, 1 Scroll of Stoneskin, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Robes of the Monk
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 2 Gem of Ability Increase, 1 Gem of Damage Resistance, 3 Scroll of Bull's Strength, 3 Scroll of Cat's Grace, 3 Scroll of Owl's Wisdom, 1 Scroll of Stoneskin, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Robes of the Ranger
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Bonus Spell Slot, 1 Gem of Ability Increase, 1 Gem of Resistance, 1 Barkskin, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Robes of the Rogue
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 2 Gem of Ability Increase, 1 Scroll of Stoneskin, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Robes of the Sorcerer
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Bonus Spell Slot, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Robes of the Wizard
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Bonus Spell Slot, 2 Ingot of Enhancement, 1 Crafted Robes +4
+
+Enchanting Statue
+Superior Gloves of the Hin Fist
+1 Gem of Greater Enhancement, 1 Gem of Ability Increase, 1 Gem of Skill Increase, 1 Gem of Bonus Damage, 2 Ingot of Enhancement, 1 Enchanted Gloves of the Hin Fist 
+
+Enchanting Statue
+Superior Legendary Tiger Leather Armour
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 2 Gem of Skill Increase, 4 Scroll of Cat's Grace, 3 Scroll of Stoneskin, 4 Scroll of Protection from Elements, 2 Ingot of Enhancement, 1 Enhanced Legendary Tiger Leather Armor
+
+Enchanting Statue
+Superior Malar Leather Armour
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 1 Gem of Skill Increase, 3 Scroll of Protection from Elements, 3 Scroll of Stoneskin, 2 Ingot of Enhancement, 1 Enhanced Malar Leather Armor
+
+Enchanting Statue
+Superior Polar Leather Armour
+1 Gem of Greater Enhancement, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 1 Gem of Skill Increase, 3 Scroll of Endurance, 1 Scroll of Heal, 2 Scroll of Resist Elements, 3 Scroll of Stoneskin, 2 Ingot of Enhancement, 1 Enhanced Polar Leather Armor
+
+Enchanting Statue
+Superior Leather Armour of the Shaman
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Skill Increase, 1 Scroll of Regenerate, 2 Ingot of Enhancement, 1 Enhanced Legendary Tiger Leather Armor
+
+Enchanting Statue
+Superior Leather Armour of the Psion
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Skill Increase, 1 Spell(s) of Lesser Mind Blank, 2 Ingot of Enhancement, 1 Enhanced Polar Leather Armor
+
+Enchanting Statue
+Superior Chain Mail Generic
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 1 Gem of Enhancement, 3 Scroll of Bull's Strength, 2 Ingot of Enhancement, 1 Enhanced Chain Mail
+
+Enchanting Statue
+Superior Chain Mail of the Druid
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Bonus Spell Slot, 2 Ingot of Enhancement, 1 Enhanced Chain Mail
+
+Enchanting Statue
+Superior Chain Mail of the Favoured Soul
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 2 Ingot of Enhancement, 1 Scroll of Heal, 1 Enhanced Chain Mail
+
+Enchanting Statue
+Superior Chain Mail of the Warlock
+1 Gem of Greater Enhancement, 1 Gem of Skill Increase, 1 Gem of Resistance, 1 Gem of Ability Increase, 2 Ingot of Enhancement, 1 Scroll(s) of Harm, 1 Enhanced Chain Mail
+
+Enchanting Statue
+Superior Full Plate of Toughness
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 1 Gem of Enhancement, 3 Scroll of Cat's Grace, 3 Scroll of Endurance, 3 Scroll of Protection from Elements, 1 Scroll of Heal, 3 Scroll of Clarity, 2 Ingot of Enhancement, 1 Enhanced Full Plate
+
+Enchanting Statue
+Superior Full Plate Cleric
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Bonus Spell Slot, 1 Gem of Bonus Feats, 2 Ingot of Enhancement, 1 Enhanced Full Plate
+
+Enchanting Statue
+Superior Full Plate of the Fighter
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 1 Gem of Skill Increase, 3 Scroll of Bull's Strength, 2 Ingot of Enhancement, 1 Enhanced Full Plate
+
+Enchanting Statue
+Superior Full Plate of the Paladin
+1 Gem of Greater Enhancement, 1 Gem of Resistance, 1 Gem of Ability Increase, 1 Gem of Damage Resistance, 1 Gem of Bonus Feats, 2 Ingot of Enhancement, 1 Enhanced Full Plate
+

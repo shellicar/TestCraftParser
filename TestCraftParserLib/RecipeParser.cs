@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
@@ -9,14 +10,14 @@ namespace TestCraftParserLib
     {
         private const string StartText = "[CHAT WINDOW TEXT]";
 
+        // components should start at line 6
+        private const int StartIndex = 6;
+
         private static string StartIdentifier => Regex.Escape(StartText);
         private static string DateIdentifier => Regex.Escape("[") + ".*?" + Regex.Escape("]");
         private static string MatchAnyGroup => "(.*)";
 
-        // components should start at line 6
-        private const int StartIndex = 6;
-
-        public IEnumerable<RecipeInfo> ParseRecipes(string input)
+        public IEnumerable<RecipeInfo> ParseRecipes(FileInfo filename, string input)
         {
             var pre = PreParse(input);
             return pre.Select(GetRecipe).Where(x => x != null);
@@ -35,7 +36,9 @@ namespace TestCraftParserLib
                 var reg = new Regex($"{StartIdentifier} {DateIdentifier} {MatchAnyGroup}");
                 var m = reg.Match(values[0]);
                 if (!m.Success)
+                {
                     throw new InvalidOperationException();
+                }
                 values[0] = m.Groups[1].Value;
 
                 yield return string.Join(Environment.NewLine, values);
@@ -48,16 +51,16 @@ namespace TestCraftParserLib
             // get list of the indexes of lines with CHAT WINDOW TEXT
             var enumerable = lines as string[] ?? lines.ToArray();
 
-            var query = from pair in enumerable.Select((Value, Index) => new { Value, Index })
-                        where pair.Value.StartsWith(StartText)
-                        select pair.Index;
+            var query = from pair in enumerable.Select((Value, Index) => new {Value, Index})
+                where pair.Value.StartsWith(StartText)
+                select pair.Index;
 
-            return query.Concat(new[] { enumerable.Length });
+            return query.Concat(new[] {enumerable.Length});
         }
 
         private static string[] SplitToLines(string input)
         {
-            return input.Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None);
+            return input.Split(new[] {"\r\n", "\r", "\n"}, StringSplitOptions.None);
         }
 
         public bool ContainsRecipe(string text)
@@ -68,7 +71,9 @@ namespace TestCraftParserLib
         public RecipeInfo GetRecipe(string text)
         {
             if (!ContainsRecipe(text))
+            {
                 return null;
+            }
 
             var lines = SplitToLines(text);
 
@@ -79,7 +84,7 @@ namespace TestCraftParserLib
 
             var reqs = ItemRequirements(lines);
 
-            var recipe = new RecipeInfo(created, location, reqs);
+            var recipe = new RecipeInfo(created, location, reqs, null);
             return recipe;
         }
 

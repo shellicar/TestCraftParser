@@ -1,0 +1,124 @@
+Weapon Crafting Anvil - Standard
+99 Bronze Bullet
+3 Ingot of Bronze, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Battleaxe
+4 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Dwarven Waraxe
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Greataxe
+4 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Handaxe
+2 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Bastard Sword
+6 Ingot of Bronze, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Dagger
+2 Ingot of Bronze, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Greatsword
+6 Ingot of Bronze, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Longsword
+6 Ingot of Bronze, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Rapier
+4 Ingot of Bronze, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Scimitar
+4 Ingot of Bronze, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Shortsword
+4 Ingot of Bronze, 1 Medium Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Heavy Flail
+4 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Light Flail
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Light Hammer
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Mace
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Morningstar
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Warhammer
+4 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Double Axe
+5 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Dire Mace
+4 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Two-Bladed Sword
+6 Ingot of Bronze, 1 Large Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Kama
+2 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Katana
+5 Ingot of Bronze, 1 Large Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Kukri
+2 Ingot of Bronze, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+Bronze Sickle
+2 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Halberd
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Scythe
+3 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+Bronze Spear
+2 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+
+Weapon Crafting Anvil - Standard
+50 Bronze Dart
+2 Ingot of Bronze, 1 Small Casting Mold, 1 Feathers from a Raven/Falcon/Owl
+
+Weapon Crafting Anvil - Standard
+50 Bronze Shuriken
+2 Ingot of Bronze, 1 Small Casting Mold
+
+Weapon Crafting Anvil - Standard
+50 Bronze Throwing Axes
+2 Ingot of Bronze, 1 Small Casting Mold, 1 Shaft of Oak
+

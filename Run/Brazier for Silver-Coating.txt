@@ -1,0 +1,128 @@
+Brazier for Silver-Coating
+99 Silver-Coated Bullet
+1 Enchanted Ingot of Silver, 1 Holy Water, 99 Bronze Bullet
+
+Brazier for Silver-Coating
+Silver-Coated Battleaxe
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Battleaxe, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Dwarven Waraxe
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Dwarven Waraxe, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Greataxe
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Greataxe, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Handaxe
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Handaxe, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Bastard Sword
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Bastard Sword, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Dagger
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Dagger, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Greatsword
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Great Sword, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Longsword
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Longsword, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Rapier
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Rapier, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Scimitar
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Scimitar, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Shortsword
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Shortsword, 261 Gold
+
+Brazier for Silver-Coating
+Heavy Silver-Coated Flail
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Heavy Bronze Flail, 261 Gold
+
+Brazier for Silver-Coating
+Light Silver-Coated Flail
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Light Bronze Flail, 261 Gold
+
+Brazier for Silver-Coating
+Light Silver-Coated Hammer
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Light Bronze Hammer, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Mace
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Mace, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Morningstar
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Morningstar, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Warhammer
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Warhammer, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Double Axe
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Double Axe, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Dire Mace
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Dire Mace, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Two-Bladed Sword
+4 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Two-Bladed Sword, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Kama
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Kama, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Katana
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Katana, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Kukri
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Kukri, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Sickle
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Sickle, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Halberd
+3 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Halberd, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Scythe
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Scythe, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Spear
+2 Enchanted Ingot of Silver, 1 Holy Water, 1 Bronze Spear, 261 Gold
+
+Brazier for Silver-Coating
+Silver-Coated Throwing Axes
+2 Enchanted Ingot of Silver, 1 Holy Water, 50 Bronze Throwing Axe
+
+Brazier for Silver-Coating
+50 Silver-Coated Dart
+1 Enchanted Ingot of Silver, 1 Holy Water, 50 Bronze Dart
+
+Brazier for Silver-Coating
+50 Silver-Coated Shuriken
+1 Enchanted Ingot of Silver, 1 Holy Water, 50 Bronze Shuriken
+
+Brazier for Silver-Coating
+ Silver-Coated Whip Cracker
+1 Enchanted Ingot of Silver, 1 Holy Water, 1 Iron Spikes
+

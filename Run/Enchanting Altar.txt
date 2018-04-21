@@ -1,0 +1,168 @@
+Enchanting Altar
+Bag's of Sparks
+2 Leather Pouch, 1 Dust of Fire Agate, 1 Barley Flour
+
+Enchanting Altar
+Bag's of Acid
+2 Leather Pouch, 1 Dust of Sapphire, 1 Rye Flour
+
+Enchanting Altar
+Bag's of Fire
+2 Leather Pouch, 1 Dust of Fire Opal, 1 Corn Flour
+
+Enchanting Altar
+Bag's of Lightning
+2 Leather Pouch, 1 Dust of Topaz, 1 Rice Flour
+
+Enchanting Altar
+Bag's of Frost
+2 Leather Pouch, 1 Dust of Topaz, 1 Wheat Flour
+
+Enchanting Altar
+Bag's of Thunder
+2 Leather Pouch, 1 Dust of Ruby, 1 Oat Flour
+
+Enchanting Altar
+Bag's of Poison
+2 Leather Pouch, 1 Dust of Emerald, 1 Skullcap Leaf
+
+Enchanting Altar
+Enchanted Greenstone
+1 Enchanting Oil, 1 Fine Greenstone
+
+Enchanting Altar
+Enchanted Malachite
+1 Enchanting Oil, 1 Fine Malachite
+
+Enchanting Altar
+Enchanted Fire Agate
+1 Enchanting Oil, 1 Fine Fire Agate
+
+Enchanting Altar
+Enchanted Aventurine
+1 Enchanting Oil, 1 Fine Aventurine
+
+Enchanting Altar
+Enchanted Phenalope
+1 Enchanting Oil, 1 Fine Phenalope
+
+Enchanting Altar
+Enchanted Amethyst
+1 Enchanting Oil, 1 Fine Amethyst
+
+Enchanting Altar
+Enchanted Feldspar
+1 Enchanting Oil, 1 Fine Feldspar
+
+Enchanting Altar
+Enchanted Garnet
+1 Enchanting Oil, 1 Fine Garnet
+
+Enchanting Altar
+Enchanted Alexandrite
+1 Enchanting Oil, 1 Fine Alexandrite
+
+Enchanting Altar
+Enchanted Topaz
+1 Enchanting Oil, 1 Fine Topaz
+
+Enchanting Altar
+Enchanted Sapphire
+1 Enchanting Oil, 1 Fine Sapphire
+
+Enchanting Altar
+Enchanted Fire Opal
+1 Enchanting Oil, 1 Fine Fire Opal
+
+Enchanting Altar
+Enchanted Diamond
+1 Enchanting Oil, 1 Fine Diamond
+
+Enchanting Altar
+Enchanted Ruby
+1 Enchanting Oil, 1 Fine Ruby
+
+Enchanting Altar
+Enchanted Emerald
+1 Enchanting Oil, 1 Fine Emerald
+
+Enchanting Altar
+Enchanted Copper Ingot
+1 Enchanting Oil, 1 Ingot of Copper
+
+Enchanting Altar
+Enchanted Bronze Ingot
+1 Enchanting Oil, 1 Ingot of Bronze
+
+Enchanting Altar
+Enchanted Gold Ingot
+1 Enchanting Oil, 1 Ingot of Gold
+
+Enchanting Altar
+Enchanted Platinum Ingot
+1 Enchanting Oil, 1 Ingot of Platinum
+
+Enchanting Altar
+Enchanted Admantaninum Ingot
+1 Enchanting Oil, 1 Ingot of Adamantium
+
+Enchanting Altar
+Enchanted Silver Ingot
+1 Enchanting Oil, 1 Ingot of Silver
+
+Enchanting Altar
+Enchanted Titanium Ingot
+1 Enchanting Oil, 1 Ingot of Titanium
+
+Enchanting Altar
+Enchanted Mithril Alloy Ingot
+1 Enchanting Oil, 1 Ingot of Mithril Alloy
+
+Enchanting Altar
+Ingot of Enhancement
+1 Enchanted Ingot of Mithril Alloy, 1 Holy Water, 1 Will O Wisp Essence, 1 Dust of Diamond, 1 Vial of Dragon Blood, 1 Essence of Power, 1 Schematic - Enchanting 2 in inventory
+
+Enchanting Altar
+Enchanted Rage Spider Queen Silk Cloth
+1 Enchanting Oil, 1 Rage Spider Queen Silk Cloth, 1 Prismatic Dragon Scale, 2 Black Dragon Scale Powder, 2 Red Dragon Scale Powder
+
+Enchanting Altar
+Enchanted Wurm Plating
+1 Enchanting Oil, 1 Prismatic Dragon Scale, 2 Hardened Ancient Red Dragon Heart, 2 Red Dragon Scale Powder, 2 Hell Wurm Scale Powder, 1 Wurm Plating
+
+Enchanting Altar
+Enchanted Wurm Weapon Hilt Insert
+1 Enchanting Oil, 1 Prismatic Dragon Scale, 2 Hardened Ancient Red Dragon Heart, 2 Red Dragon Scale Powder, 2 Hell Wurm Scale Powder, 1 Wurm Weapon Hilt Insert
+
+Enchanting Altar
+War Rune of Warding
+1 Enchanting Oil, 1 Bag of Acid, 1 Bag of Fire, 1 Bag of Lightning, 1 Bag of Frost, 1 Bag of Thunder, 1 Bag of Poison
+
+Enchanting Altar
+War Rune of Magic
+1 Enchanting Oil, 1 Ingot of Glass, 1 Bag of Acid, 1 Bag of Fire, 1 Bag of Frost, 1 Bag of Thunder, 1 Vial of Dragon Blood
+
+Enchanting Altar
+Improved Combined Staff
+1 Enchanting Oil, 1 Combined Staff
+
+Enchanting Altar
+Enchanted Hickory Wand
+1 Enchanting Oil, 1 Carved Hickory Wand
+
+Enchanting Altar
+Enchanted Oak Wand
+1 Enchanting Oil, 1 Carved Oak Wand
+
+Enchanting Altar
+Enchanted Mahogany Wand
+1 Enchanting Oil, 1 Carved Mahogany Wand
+
+Enchanting Altar
+Enchanted Elm Wand
+1 Enchanting Oil, 1 Carved Elm Wand
+
+Enchanting Altar
+Talisman Key
+1 Enchanting Oil, 1 Twisted Piece of Metal, 2 Vial of Dragon Blood, 1 Bag of Fire
+

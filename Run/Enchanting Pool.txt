@@ -1,0 +1,1032 @@
+Enchanting Pool
+Fire Bullet
+1 Enchanting Oil, 1 Bag of Fire, 99 Copper Bullet
+
+Enchanting Pool
+Battleaxe of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Battleaxe
+
+Enchanting Pool
+Dwarven Waraxe of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Dwarven Waraxe
+
+Enchanting Pool
+Greataxe of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Greataxe
+
+Enchanting Pool
+Handaxe of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Handaxe
+
+Enchanting Pool
+Battleaxe of Greater Fire
+1 Battleaxe of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Dwarven Waraxe of Greater Fire
+1 Dwarven Waraxe of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Greataxe of Greater Fire
+1 Greataxe of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Handaxe of Greater Fire
+1 Handaxe of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Bastard Sword of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Bastard Sword
+
+Enchanting Pool
+Dagger of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Dagger
+
+Enchanting Pool
+Great Sword of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Great Sword
+
+Enchanting Pool
+Longsword of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Longsword
+
+Enchanting Pool
+Rapier of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Rapier
+
+Enchanting Pool
+Scimitar of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Scimitar
+
+Enchanting Pool
+Shortsword of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Shortsword
+
+Enchanting Pool
+Bastard Sword of Greater Fire
+1 Bastard Sword of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Dagger of Greater Fire
+1 Dagger of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Great Sword of Greater Fire
+1 Great Sword of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Longsword of Greater Fire
+1 Longsword of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Rapier of Greater Fire
+1 Rapier of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Scimitar of Greater Fire
+1 Scimitar of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Shortsword of Greater Fire
+1 Shortsword of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Club of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Wood Club
+
+Enchanting Pool
+Heavy Flail of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Heavy Copper Flail
+
+Enchanting Pool
+Light Flail of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Light Copper Flail
+
+Enchanting Pool
+Light Hammer of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Light Copper Hammer
+
+Enchanting Pool
+Mace of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Mace
+
+Enchanting Pool
+Morningstar of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Morningstar
+
+Enchanting Pool
+Warhammer of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Warhammer
+
+Enchanting Pool
+Club of Greater Fire
+1 Club of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Heavy Flail of Greater Fire
+1 Heavy Flail of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Light Flail of Greater Fire
+1 Light Flail of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Light Hammer of Greater Fire
+1 Light Hammer of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Mace of Greater Fire
+1 Mace of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Morningstar of Greater Fire
+1 Morningstar of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Warhammer of Greater Fire
+1 Warhammer of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Dire Mace of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Dire Mace
+
+Enchanting Pool
+Double Axe of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Double Axe
+
+Enchanting Pool
+Quarterstaff of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Wooden Quarterstaff
+
+Enchanting Pool
+Two-Bladed Sword of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Two-Bladed Sword
+
+Enchanting Pool
+Dire Mace of Greater Fire
+1 Dire Mace of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Double Axe of Greater Fire
+1 Double Axe of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Quarterstaff of Greater Fire
+1 Quarterstaff of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Two-Bladed Sword of Greater Fire
+1 Two-Bladed Sword of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Kama of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Kama
+
+Enchanting Pool
+Katana of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Katana
+
+Enchanting Pool
+Kukri of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Kukri
+
+Enchanting Pool
+Sickle of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Sickle
+
+Enchanting Pool
+Whip of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Crafted Whip
+
+Enchanting Pool
+Kama of Greater Fire
+1 Kama of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Katana of Greater Fire
+1 Katana of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Kukri of Greater Fire
+1 Kukri of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Sickle of Greater Fire
+1 Sickle of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Whip of Greater Fire
+1 Whip of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Halberd of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Halberd
+
+Enchanting Pool
+Scythe of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Scythe
+
+Enchanting Pool
+Spear of Fire
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Spear
+
+Enchanting Pool
+Halberd of Greater Fire
+1 Halberd of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Scythe of Greater Fire
+1 Scythe of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Spear of Greater Fire
+1 Spear of Fire, 1 Crystalised Fire, 1 Scroll(s) of Firebrand, 1 Gem of Enhancement, 25000 Gold
+
+Enchanting Pool
+Fire Dart
+1 Enchanting Oil, 1 Bag of Fire, 50 Copper Dart
+
+Enchanting Pool
+Fire Shuriken
+1 Enchanting Oil, 1 Bag of Fire, 50 Copper Shuriken
+
+Enchanting Pool
+Fire Throwing Axe
+1 Enchanting Oil, 1 Bag of Fire, 1 Copper Throwing Axe
+
+Enchanting Pool
+Acid Bullet
+1 Enchanting Oil, 1 Bag of Acid, 99 Bronze Bullet
+
+Enchanting Pool
+Battleaxe of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Battleaxe, 500 Gold
+
+Enchanting Pool
+Dwarven Waraxe of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 500 Gold, 1 Bronze Dwarven Waraxe
+
+Enchanting Pool
+Greataxe of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Greataxe, 500 Gold
+
+Enchanting Pool
+Handaxe of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Handaxe, 500 Gold
+
+Enchanting Pool
+Battleaxe of Greater Acid
+1 Battleaxe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Dwarven Waraxe of Greater Acid
+1 Dwarven Waraxe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Greataxe of Greater Acid
+1 Greataxe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Handaxe of Greater Acid
+1 Handaxe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Bastard Sword of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Bastard Sword, 500 Gold
+
+Enchanting Pool
+Dagger of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Dagger, 500 Gold
+
+Enchanting Pool
+Great Sword of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Great Sword, 500 Gold
+
+Enchanting Pool
+Longsword of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Longsword, 500 Gold
+
+Enchanting Pool
+Rapier of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Rapier, 500 Gold
+
+Enchanting Pool
+Scimitar of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Scimitar, 500 Gold
+
+Enchanting Pool
+Shortsword of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Shortsword, 500 Gold
+
+Enchanting Pool
+Bastard Sword of Greater Acid
+1 Bastard Sword of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Dagger of Greater Acid
+1 Dagger of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Great Sword of Greater Acid
+1 Great Sword of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Longsword of Greater Acid
+1 Longsword of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Rapier of Greater Acid
+1 Rapier of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Scimitar of Greater Acid
+1 Scimitar of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Shortsword of Greater Acid
+1 Shortsword of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Club of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Shod Club, 500 Gold
+
+Enchanting Pool
+Heavy Flail of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Heavy Bronze Flail, 500 Gold
+
+Enchanting Pool
+Light Flail of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Light Bronze Flail, 500 Gold
+
+Enchanting Pool
+Light Hammer of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Light Bronze Hammer, 500 Gold
+
+Enchanting Pool
+Mace of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Mace, 500 Gold
+
+Enchanting Pool
+Morningstar of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Morningstar, 500 Gold
+
+Enchanting Pool
+Warhammer of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Warhammer, 500 Gold
+
+Enchanting Pool
+Club of Greater Acid
+1 Club of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Heavy Flail of Greater Acid
+1 Heavy Flail of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Light Flail of Greater Acid
+1 Light Flail of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Light Hammer of Greater Acid
+1 Light Hammer of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Mace of Greater Acid
+1 Mace of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Morningstar of Greater Acid
+1 Morningstar of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Warhammer of Greater Acid
+1 Warhammer of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Dire Mace of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Dire Mace, 500 Gold
+
+Enchanting Pool
+Double Axe of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Double Axe, 500 Gold
+
+Enchanting Pool
+Quarterstaff of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze-Shod Quarterstaff, 500 Gold
+
+Enchanting Pool
+Two-Bladed Sword of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Two-Bladed Sword, 500 Gold
+
+Enchanting Pool
+Dire Mace of Greater Acid
+1 Dire Mace of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Double Axe of Greater Acid
+1 Double Axe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Quarterstaff of Greater Acid
+1 Quarterstaff of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Two-Bladed Sword of Greater Acid
+1 Two-Bladed Sword of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Kama of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Kama, 500 Gold
+
+Enchanting Pool
+Katana of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Katana, 500 Gold
+
+Enchanting Pool
+Kukri of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Kukri, 500 Gold
+
+Enchanting Pool
+Sickle of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Sickle, 500 Gold
+
+Enchanting Pool
+Whip of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Crafted Whip +1, 500 Gold
+
+Enchanting Pool
+Kama of Greater Acid
+1 Kama of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Katana of Greater Acid
+1 Katana of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Kukri of Greater Acid
+1 Kukri of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Sickle of Greater Acid
+1 Sickle of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Whip of Greater Acid
+1 Whip of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Halberd of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Halberd, 500 Gold
+
+Enchanting Pool
+Scythe of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Scythe, 500 Gold
+
+Enchanting Pool
+Spear of Acid
+1 Enchanting Oil, 1 Bag of Acid, 1 Scroll(s) of Melf's Acid Arrow, 1 Bronze Spear, 500 Gold
+
+Enchanting Pool
+Halberd of Greater Acid
+1 Halberd of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Scythe of Greater Acid
+1 Scythe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Scythe of Greater Acid
+1 Scythe of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Spear of Greater Acid
+1 Spear of Acid, 1 Crystalised Acid, 1 Scroll(s) of Acid Fog, 1 Gem of Greater Enhancement, 50000 Gold
+
+Enchanting Pool
+Acid Dart
+1 Enchanting Oil, 1 Bag of Acid, 50 Bronze Dart
+
+Enchanting Pool
+Acid Shuriken
+1 Enchanting Oil, 1 Bag of Acid, 50 Bronze Shuriken
+
+Enchanting Pool
+Acid Throwing Axe
+1 Enchanting Oil, 1 Bag of Acid, 50 Bronze Throwing Axe
+
+Enchanting Pool
+Frost Bullet
+1 Enchanting Oil, 1 Bag of Frost, 1 Dust of Sapphire, 99 Iron Bullet
+
+Enchanting Pool
+Battleaxe of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Battleaxe, 2000 Gold
+
+Enchanting Pool
+Dwarven Waraxe of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Dwarven Waraxe, 2000 Gold
+
+Enchanting Pool
+Greataxe of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Greataxe, 2000 Gold
+
+Enchanting Pool
+Handaxe of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Handaxe, 2000 Gold
+
+Enchanting Pool
+Battleaxe of Greater Frost
+1 Battleaxe of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Dwarven Waraxe of Greater Frost
+1 Dwarven Waraxe of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Greataxe of Greater Frost
+1 Greataxe of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Handaxe of Greater Frost
+1 Handaxe of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Bastard Sword of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Bastard Sword, 2000 Gold
+
+Enchanting Pool
+Dagger of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Dagger, 2000 Gold
+
+Enchanting Pool
+Great Sword of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Great Sword, 2000 Gold
+
+Enchanting Pool
+Longsword of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Longsword, 2000 Gold
+
+Enchanting Pool
+Scimitar of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Scimitar, 2000 Gold
+
+Enchanting Pool
+Rapier of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Rapier, 2000 Gold
+
+Enchanting Pool
+Shortsword of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Shortsword, 2000 Gold
+
+Enchanting Pool
+Bastard Sword of Greater Frost
+1 Bastard Sword of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Dagger of Greater Frost
+1 Dagger of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Great Sword of Greater Frost
+1 Great Sword of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Longsword of Greater Frost
+1 Longsword of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Scimitar of Greater Frost
+1 Scimitar of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Rapier of Greater Frost
+1 Rapier of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Shortsword of Greater Frost
+1 Shortsword of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Club of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Shod Club, 2000 Gold
+
+Enchanting Pool
+Heavy Flail of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Heavy Iron Flail, 2000 Gold
+
+Enchanting Pool
+Light Flail of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Light Iron Hammer, 2000 Gold
+
+Enchanting Pool
+Light Hammer of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Light Iron Flail, 2000 Gold
+
+Enchanting Pool
+Mace of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Mace, 2000 Gold
+
+Enchanting Pool
+Morningstar of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Morningstar, 2000 Gold
+
+Enchanting Pool
+Warhammer of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Warhammer, 2000 Gold
+
+Enchanting Pool
+Club of Greater Frost
+1 Club of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Heavy Flail of Greater Frost
+1 Heavy Flail of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Light Flail of Greater Frost
+1 Light Flail of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Light Hammer of Greater Frost
+1 Light Hammer of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Mace of Greater Frost
+1 Mace of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Morningstar of Greater Frost
+1 Morningstar of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Warhammer of Greater Frost
+1 Warhammer of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Double Axe of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Double Axe, 2000 Gold
+
+Enchanting Pool
+Dire Mace of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Dire Mace, 2000 Gold
+
+Enchanting Pool
+Quarterstaff of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron-Shod Quarterstaff, 2000 Gold
+
+Enchanting Pool
+Two-Bladed Sword of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Two-Bladed Sword, 2000 Gold
+
+Enchanting Pool
+Double Axe of Greater Frost
+1 Double Axe of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Dire Mace of Greater Frost
+1 Dire Mace of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Quarterstaff of Greater Frost
+1 Quarterstaff of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Two-Bladed Sword of Greater Frost
+1 Two-Bladed Sword of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Kama of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Kama, 2000 Gold
+
+Enchanting Pool
+Katana of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Katana, 2000 Gold
+
+Enchanting Pool
+Kukri of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Kukri, 2000 Gold
+
+Enchanting Pool
+Sickle of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Sickle, 2000 Gold
+
+Enchanting Pool
+Whip of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Crafted Whip +2, 2000 Gold
+
+Enchanting Pool
+Kama of Greater Frost
+1 Kama of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Katana of Greater Frost
+1 Katana of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Kukri of Greater Frost
+1 Kukri of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Sickle of Greater Frost
+1 Sickle of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Whip of Greater Frost
+1 Whip of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Halberd of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Halberd, 2000 Gold
+
+Enchanting Pool
+Scythe of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Scythe, 2000 Gold
+
+Enchanting Pool
+Spear of Frost
+1 Enchanting Oil, 1 Bag of Frost, 1 Scroll(s) of Gust of Wind, 1 Enchanted Sapphire, 1 Iron Spear, 2000 Gold
+
+Enchanting Pool
+Halberd of Greater Frost
+1 Halberd of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Scythe of Greater Frost
+1 Scythe of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Spear of Greater Frost
+1 Spear of Frost, 1 Crystalised Frost, 1 Scroll(s) of Cone of Cold, 1 Gem of Peerless Enhancement, 100000 Gold
+
+Enchanting Pool
+Frost Dart
+1 Enchanting Oil, 1 Bag of Frost, 1 Dust of Sapphire, 50 Iron Dart
+
+Enchanting Pool
+Frost Shuriken
+1 Enchanting Oil, 1 Bag of Frost, 1 Dust of Sapphire, 50 Iron Shuriken
+
+Enchanting Pool
+Frost Throwing Axe
+1 Enchanting Oil, 1 Bag of Frost, 1 Dust of Sapphire, 50 Iron Throwing Axe
+
+Enchanting Pool
+Lightning Bullet
+1 Enchanting Oil, 1 Bag of Lightning, 1 Dust of Topaz, 99 Titanium-Coated Bullet
+
+Enchanting Pool
+Battleaxe of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Battleaxe, 1 Gem of Keen Edge
+
+Enchanting Pool
+Dwarven Waraxe of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium Tipped Dwarven Waraxe, 1 Gem of Keen Edge
+
+Enchanting Pool
+Greataxe of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Greataxe, 1 Gem of Keen Edge
+
+Enchanting Pool
+Handaxe of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Handaxe, 1 Gem of Keen Edge
+
+Enchanting Pool
+Battleaxe of Greater Lightning
+1 Battleaxe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Dwarven Waraxe of Greater Lightning
+1 Battleaxe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Greataxe of Greater Lightning
+1 Greataxe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Handaxe of Greater Lightning
+1 Handaxe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Bastard Sword of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Bastard Sword, 1 Gem of Keen Edge
+
+Enchanting Pool
+Dagger of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Dagger, 1 Gem of Keen Edge
+
+Enchanting Pool
+Great Sword of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Great Sword, 1 Gem of Keen Edge
+
+Enchanting Pool
+Longsword of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Longsword, 1 Gem of Keen Edge
+
+Enchanting Pool
+Scimitar of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Scimitar, 1 Gem of Keen Edge
+
+Enchanting Pool
+Rapier of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Rapier, 1 Gem of Keen Edge
+
+Enchanting Pool
+Shortsword of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Shortsword, 1 Gem of Keen Edge
+
+Enchanting Pool
+Bastard Sword of Greater Lightning
+1 Bastard Sword of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Dagger of Greater Lightning
+1 Dagger of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Great Sword of Greater Lightning
+1 Great Sword of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Longsword of Greater Lightning
+1 Longsword of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Scimitar of Greater Lightning
+1 Scimitar of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Rapier of Greater Lightning
+1 Rapier of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Shortsword of Greater Lightning
+1 Shortsword of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Club of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Club, 1 Gem of Keen Edge
+
+Enchanting Pool
+Heavy Flail of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Heavy Titanium-Tipped Flail, 1 Gem of Keen Edge
+
+Enchanting Pool
+Light Flail of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Light Titanium-Tipped Hammer, 1 Gem of Keen Edge
+
+Enchanting Pool
+Light Hammer of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Light Titanium-Tipped Flail, 1 Gem of Keen Edge
+
+Enchanting Pool
+Mace of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Mace, 1 Gem of Keen Edge
+
+Enchanting Pool
+Morningstar of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Morningstar, 1 Gem of Keen Edge
+
+Enchanting Pool
+Warhammer of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Warhammer, 1 Gem of Keen Edge
+
+Enchanting Pool
+Club of Greater Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Heavy Flail of Greater Lightning
+1 Heavy Flail of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Light Flail of Greater Lightning
+1 Light Flail of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Light Hammer of Greater Lightning
+1 Light Hammer of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Mace of Greater Lightning
+1 Mace of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Morningstar of Greater Lightning
+1 Morningstar of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Warhammer of Greater Lightning
+1 Warhammer of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Double Axe of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Double Axe, 1 Gem of Keen Edge
+
+Enchanting Pool
+Dire Mace of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Dire Mace, 1 Gem of Keen Edge
+
+Enchanting Pool
+Quarterstaff of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Shod Quarterstaff, 1 Gem of Keen Edge
+
+Enchanting Pool
+Two-Bladed Sword of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Two-Bladed Sword, 1 Gem of Keen Edge
+
+Enchanting Pool
+Double Axe of Greater Lightning
+1 Double Axe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Dire Mace of Greater Lightning
+1 Dire Mace of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Quarterstaff of Greater Lightning
+1 Quarterstaff of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Two-Bladed Sword of Greater Lightning
+1 Two-Bladed Sword of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Kama of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Kama, 1 Gem of Keen Edge
+
+Enchanting Pool
+Katana of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Katana, 1 Gem of Keen Edge
+
+Enchanting Pool
+Kukri of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Kukri, 1 Gem of Keen Edge
+
+Enchanting Pool
+Sickle of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Sickle, 1 Gem of Keen Edge
+
+Enchanting Pool
+Whip of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Crafted Whip +3, 1 Gem of Keen Edge
+
+Enchanting Pool
+Kama of Greater Lightning
+1 Kama of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Katana of Greater Lightning
+1 Katana of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Kukri of Greater Lightning
+1 Kukri of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Sickle of Greater Lightning
+1 Sickle of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Whip of Greater Lightning
+1 Whip of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Halberd of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Halberd, 1 Gem of Keen Edge
+
+Enchanting Pool
+Scythe of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Scythe, 1 Gem of Keen Edge
+
+Enchanting Pool
+Spear of Lightning
+1 Enchanting Oil, 1 Bag of Lightning, 1 Scroll(s) of Lightning Bolt, 1 Enchanted Topaz, 1 Titanium-Tipped Spear, 1 Gem of Keen Edge
+
+Enchanting Pool
+Halberd of Greater Lightning
+1 Halberd of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Scythe of Greater Lightning
+1 Scythe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Scythe of Greater Lightning
+1 Scythe of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Spear of Greater Lightning
+1 Spear of Lightning, 1 Bag of Lightning, 1 Scroll(s) of Chain Lightning, 1 Gem of Superlative Enhancement, 200000 Gold
+
+Enchanting Pool
+Lightning Dart
+1 Enchanting Oil, 1 Bag of Lightning, 1 Dust of Topaz, 50 Titanium-Tipped Dart
+
+Enchanting Pool
+Lightning Shuriken
+1 Enchanting Oil, 1 Bag of Lightning, 1 Dust of Topaz, 50 Titanium-Tipped Shuriken
+
+Enchanting Pool
+Lightning Throwing Axe
+1 Enchanting Oil, 1 Bag of Lightning, 1 Dust of Topaz, 50 Titanium-Tipped Shuriken
+
